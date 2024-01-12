@@ -11,13 +11,10 @@ PlayResY: 800
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Link Click - S01E06 - (BD 1080p HEVC FLAC AAC) [0272EBB9].mkv
-Video File: Link Click - S01E06 - (BD 1080p HEVC FLAC AAC) [0272EBB9].mkv
-Video AR Value: 2.400000
 Video Zoom Percent: 1.000000
-Scroll Position: 413
-Active Line: 437
-Video Position: 30124
+Scroll Position: 13
+Active Line: 32
+Video Position: 1745
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +33,7 @@ Style: Mask,Corinthian Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 12,0:00:08.24,0:00:09.90,Main,,0,0,0,,Bạn mang đi hay uống luôn?
+Dialogue: 12,0:00:08.14,0:00:09.90,Main,,0,0,0,,Bạn mang đi hay uống luôn?
 Dialogue: 12,0:00:09.90,0:00:10.61,Main,,0,0,0,,Uống luôn.
 Dialogue: 12,0:00:10.61,0:00:11.32,Main,,0,0,0,,Có ngay.
 Dialogue: 12,0:00:11.32,0:00:14.77,Main,,0,0,0,,Cho 1 một sữa tươi trân châu đường đen,\N ít đường thêm đậu đỏ.
@@ -50,7 +47,7 @@ Dialogue: 12,0:00:25.78,0:00:28.80,Main,,0,0,0,,Mẹ có biết kĩ năng lợi 
 Dialogue: 12,0:00:29.72,0:00:30.41,Main,,0,0,0,,Mẹ không biết.
 Dialogue: 12,0:00:30.41,0:00:32.12,Main,,0,0,0,,À đúng rồi, kem cheese tách riêng ra nhé.
 Dialogue: 12,0:00:32.12,0:00:33.35,Main,,0,0,0,,À, vâng vâng.
-Dialogue: 12,0:00:33.64,0:00:37.61,Main,,0,0,0,,Là người mỗi lần đều có thể\N đánh bay Grinder rốt cuộc tên là gì?
+Dialogue: 12,0:00:33.64,0:00:37.61,Main,,0,0,0,,Là người mỗi lần đều có thể\N đánh bay Grede rốt cuộc tên là gì?
 Dialogue: 12,0:00:37.99,0:00:40.60,Main,,0,0,0,,Đậu Đậu ngoan, \Nđợi mẹ làm xong rồi chơi với Đậu Đậu nhé.
 Dialogue: 12,0:00:40.60,0:00:41.44,Main,,0,0,0,,Có được không?
 Dialogue: 12,0:00:41.78,0:00:42.78,Main,,0,0,0,,Ứ ừ.
@@ -68,7 +65,7 @@ Dialogue: 12,0:01:02.70,0:01:05.21,Main,,0,0,0,,Mẹ với bố cả ngày chả
 Dialogue: 12,0:01:05.37,0:01:08.23,Main,,0,0,0,,Đã nói với em rồi, \Nđừng có đến mấy quán đang hot trên mạng.
 Dialogue: 12,0:01:08.23,0:01:09.72,Main,,0,0,0,,Nhiều đơn thế kia làm sao kịp.
 Dialogue: 12,0:01:10.50,0:01:11.84,Main,,0,0,0,,Thì cũng xếp hàng rồi, chờ xíu đi.
-Dialogue: 12,0:01:12.74,0:01:14.97,Main,,0,0,0,,Đậu Đậu ngoan,\Ncon tự mình chơi một lúc đi.
+Dialogue: 12,0:01:12.74,0:01:14.97,Main,,0,0,0,,Đậu Đậu ngoan,\Ncon tự mình chơi một lát đi.
 Dialogue: 12,0:01:14.97,0:01:17.02,Main,,0,0,0,,Tối về mẹ mua McDonald's cho ăn.
 Dialogue: 12,0:01:17.74,0:01:19.03,Main,,0,0,0,,Đây, hai cốc mang đi của anh.
 Dialogue: 12,0:01:19.03,0:01:20.57,Main,,0,0,0,,Ây dà! Ứ ừ!
@@ -182,7 +179,7 @@ Dialogue: 12,0:07:41.26,0:07:41.90,Main,,0,0,0,,Giúp tôi...
 Dialogue: 12,0:07:41.90,0:07:43.34,Main,,0,0,0,,tìm con trai tôi với!
 Dialogue: 12,0:07:43.87,0:07:45.70,Main,,0,0,0,,Đậu Đậu đi lạc đã 3 năm rồi.
 Dialogue: 12,0:07:45.93,0:07:47.08,Main,,1100,0,0,,Không chút tin tức.
-Dialogue: 12,0:07:47.53,0:07:49.61,Main,,0,0,0,,Tiêu đội trưởng đã giúp chúng tôi\N tìm 2 năm nay.
+Dialogue: 12,0:07:47.53,0:07:49.61,Main,,0,0,0,,Đội trưởng Tiêu đã giúp chúng tôi\N tìm 2 năm nay.
 Dialogue: 12,0:07:50.16,0:07:52.14,Main,,0,0,0,,Chúng tôi đã dùng đủ cách rồi.
 Dialogue: 12,0:07:52.45,0:07:53.48,Main,,0,0,0,,Bỏ đi {\i1}Anh{\i0} Lượng.
 Dialogue: 12,0:07:52.73,0:07:53.48,Main,,1200,0,0,,Nhưng mà...
@@ -208,16 +205,16 @@ Dialogue: 12,0:08:41.04,0:08:43.00,Main,,0,0,0,,Con về với bố đi mà.
 Dialogue: 12,0:08:51.99,0:08:54.72,Main,,0,0,0,,Bố không nên để con\N xem phim hoạt hình một mình.
 Dialogue: 12,0:08:55.09,0:08:56.61,Main,,0,0,0,,Là lỗi của bố.
 Dialogue: 12,0:08:56.81,0:08:58.55,Main,,0,0,0,,Là lỗi của bố.
-Dialogue: 12,0:09:01.12,0:09:01.59,Main,,0,0,0,,Chú à.
-Dialogue: 12,0:09:02.07,0:09:02.86,Main,,0,0,0,,Chú đứng lên đi đã.
+Dialogue: 12,0:09:01.12,0:09:01.59,Main,,0,0,0,,{\i1}Chú{\i0} à.
+Dialogue: 12,0:09:02.07,0:09:02.86,Main,,0,0,0,,{\i1}Chú{\i0} đứng lên đi đã.
 Dialogue: 12,0:09:03.28,0:09:03.98,Main,,0,0,0,,Anh Lượng.
 Dialogue: 12,0:09:04.41,0:09:05.69,Main,,0,0,0,,Tâm trạng của anh tôi hiểu.
 Dialogue: 12,0:09:06.20,0:09:08.19,Main,,0,0,0,,Nhưng chỗ này là studio ảnh.
 Dialogue: 12,0:09:08.45,0:09:11.13,Main,,0,0,0,,Dù anh có quỳ lõm cả đất\N thì cũng không có phép màu nào đâu.
 Dialogue: 12,0:09:11.42,0:09:11.91,Main,,0,0,0,,Không sai.
 Dialogue: 12,0:09:12.95,0:09:14.84,Main,,900,0,0,,Nếu như có ảnh cũ cần rửa...
-Dialogue: 12,0:09:15.16,0:09:17.00,Main,,900,0,0,,thì cứ mang đến đây\N chúng cháu miễn phí cho.
-Dialogue: 12,0:09:17.11,0:09:18.04,Main,,900,0,0,,Cũng coi như là tích đức.
+Dialogue: 12,0:09:15.16,0:09:17.00,Main,,900,0,0,,thì cứ mang đến đây\N chúng {\i1}cháu{\i0} miễn phí cho.
+Dialogue: 12,0:09:17.11,0:09:18.04,Main,,900,0,0,,Cũng coi như tích đức.
 Dialogue: 12,0:09:18.66,0:09:20.39,Main,,0,0,0,,Còn việc quay về quá khứ...
 Dialogue: 12,0:09:22.42,0:09:23.85,Main,,0,900,0,,thì đừng ảo tưởng nữa.
 Dialogue: 12,0:09:24.91,0:09:26.64,Main,,0,900,0,,Chuyện đã xảy ra rồi...
@@ -274,7 +271,7 @@ Dialogue: 12,0:11:38.46,0:11:40.64,Main,,0,0,0,,lạnh nhạt vô tình với ô
 Dialogue: 12,0:11:49.15,0:11:51.77,Main,,0,0,0,,Được rồi! Ăn nốt miếng cuối.
 Dialogue: 12,0:11:51.77,0:11:53.03,Main,,0,0,0,,Vợ giỏi quá!
 Dialogue: 12,0:11:54.98,0:11:55.88,Main,,0,0,0,,Thật ra...
-Dialogue: 12,0:11:56.45,0:11:57.72,Main,,0,0,0,,cái người tên Anh Lượng đó...
+Dialogue: 12,0:11:56.45,0:11:57.72,Main,,0,0,0,,cái người tên anh Lượng đó...
 Dialogue: 12,0:11:58.07,0:11:59.17,Main,,0,0,0,,tôi gặp 3 năm trước rồi.
 Dialogue: 12,0:11:59.17,0:12:00.95,Main,,0,0,0,,Nào, lau miệng.
 Dialogue: 12,0:12:02.16,0:12:03.75,Main,,0,0,0,,Lúc đó, gần trường tôi...
@@ -300,27 +297,27 @@ Dialogue: 12,0:12:50.41,0:12:52.74,Main,,0,0,0,,Em ngoan ngoãn ở nhà xem tiv
 Dialogue: 12,0:12:52.99,0:12:54.22,Main,,0,0,0,,Không chạy lung tung.
 Dialogue: 12,0:13:04.51,0:13:06.32,Main,,0,0,0,,Nếu cả 3 ngươi đều đã đến...
 Dialogue: 12,0:13:06.66,0:13:08.85,Main,,0,0,0,,thì để ta làm gỏi một thể!
-Dialogue: 12,0:13:11.86,0:13:15.07,Main,,0,0,0,,Sau đó tôi thường thấy chú ấy \Nở con đường gần trường.
-Dialogue: 12,0:13:16.74,0:13:18.22,Main,,0,0,0,,Chú ấy dẫn theo vợ...
+Dialogue: 12,0:13:11.86,0:13:15.07,Main,,0,0,0,,Sau đó tôi thường thấy anh ấy \Nở con đường gần trường.
+Dialogue: 12,0:13:16.74,0:13:18.22,Main,,0,0,0,,Anh ấy dẫn theo vợ...
 Dialogue: 12,0:13:18.22,0:13:20.56,Main,,0,0,0,,đi dán thông báo mất tích\Nhết lần này đến lần khác.
 Dialogue: 12,0:13:21.99,0:13:23.20,Main,,0,0,0,,Hỏi từng người một.
-Dialogue: 12,0:13:23.20,0:13:23.89,Main,,0,0,0,,Này, cháu gái.
-Dialogue: 12,0:13:23.89,0:13:24.63,Main,,0,0,0,,Cháu nhìn xem.
-Dialogue: 12,0:13:24.63,0:13:26.99,Main,,0,0,0,,Cháu có từng gặp\Nthằng bé này gần đây không?
-Dialogue: 12,0:13:27.45,0:13:28.07,Main,,0,0,0,,Cháu gái.
-Dialogue: 12,0:13:28.07,0:13:28.94,Main,,0,0,0,,Cháu xem đi.
-Dialogue: 12,0:13:28.94,0:13:30.55,Main,,0,0,0,,Cháu giúp chú, nghĩ lại xem có thấy không?
+Dialogue: 12,0:13:23.20,0:13:23.89,Main,,0,0,0,,Này, cô gái.
+Dialogue: 12,0:13:23.89,0:13:24.63,Main,,0,0,0,,Cô nhìn xem.
+Dialogue: 12,0:13:24.63,0:13:26.99,Main,,0,0,0,,Có từng gặp thằng bé này gần đây không?
+Dialogue: 12,0:13:27.45,0:13:28.07,Main,,0,0,0,,Cô gái.
+Dialogue: 12,0:13:28.07,0:13:28.94,Main,,0,0,0,,Cô xem đi.
+Dialogue: 12,0:13:28.94,0:13:30.55,Main,,0,0,0,,Cô giúp tôi, nghĩ lại xem có thấy không?
 Dialogue: 12,0:13:31.21,0:13:32.15,Main,,0,0,0,,Xin lỗi.
-Dialogue: 12,0:13:32.15,0:13:33.00,Main,,0,0,0,,C-Cháu chưa từng gặp.
-Dialogue: 12,0:13:39.07,0:13:41.31,Main,,0,0,0,,Tuy lúc đó tôi rất muốn nói với chú ấy...
+Dialogue: 12,0:13:32.15,0:13:33.00,Main,,0,0,0,,T-Tôi chưa từng gặp.
+Dialogue: 12,0:13:39.07,0:13:41.31,Main,,0,0,0,,Tuy lúc đó tôi rất muốn nói với anh ấy...
 Dialogue: 12,0:13:42.31,0:13:43.17,Main,,0,0,0,,nhưng...
 Dialogue: 12,0:13:45.73,0:13:46.79,Main,,0,0,0,,tôi lại nói dối.
 Dialogue: 12,0:13:48.28,0:13:50.34,Main,,0,0,0,,Tôi có nhớ được một khoảnh khắc...
 Dialogue: 12,0:13:52.20,0:13:54.51,Main,,0,0,0,,thấy cậu bé bị người ta dắt đi...
-Dialogue: 12,0:13:55.48,0:13:57.02,Main,,0,0,0,,ngang trước mắt tôi.
+Dialogue: 12,0:13:55.48,0:13:57.02,Main,,0,0,0,,ngay trước mắt tôi.
 Dialogue: 12,0:14:00.73,0:14:03.53,Main,,0,0,0,,Tôi hối hận vì lúc đó\Nđã không dừng lại hỏi thêm.
 Dialogue: 12,0:14:04.25,0:14:05.70,Main,,0,0,0,,Hỏi xem người dắt cậu bé là ai.
-Dialogue: 12,0:14:06.66,0:14:09.57,Main,,0,0,0,,Bởi thế, từ đó mà tôi\N rất sợ gặp lại Anh Lượng.
+Dialogue: 12,0:14:06.66,0:14:09.57,Main,,0,0,0,,Bởi thế, từ đó tôi\N rất sợ gặp lại anh Lượng.
 Dialogue: 12,0:14:10.00,0:14:11.86,Main,,0,0,0,,Tôi không biết phải đối diện thế nào.
 Dialogue: 12,0:14:16.18,0:14:17.62,Main,,0,0,0,,Làm gì còn mặt mũi...
 Dialogue: 12,0:14:18.93,0:14:20.76,Main,,0,0,0,,gặp cậu bé mất tích kia.
@@ -329,10 +326,10 @@ Dialogue: 12,0:14:25.58,0:14:26.47,Main,,0,0,0,,tôi liền rời đi.
 Dialogue: 12,0:14:29.59,0:14:31.65,Main,,0,0,0,,Tôi nghĩ mình có thể trốn tránh quá khứ.
 Dialogue: 12,0:14:33.69,0:14:34.83,Main,,0,0,0,,Nhưng không ngờ...
 Dialogue: 12,0:14:36.98,0:14:37.95,Main,,0,0,0,,3 năm rồi...
-Dialogue: 12,0:14:39.60,0:14:41.11,Main,,0,0,0,,chú ấy vẫn không từ bỏ.
+Dialogue: 12,0:14:39.60,0:14:41.11,Main,,0,0,0,,anh ấy vẫn không từ bỏ.
 Dialogue: 12,0:14:46.07,0:14:47.87,Main,,0,0,0,,Tôi muốn bùa đắp lại lỗi lầm đó.
 Dialogue: 12,0:14:48.82,0:14:49.87,Main,,0,0,0,,Trình Tiểu Thời.
-Dialogue: 12,0:14:50.09,0:14:50.95,Main,,0,0,0,,Giúp chú ấy đi.
+Dialogue: 12,0:14:50.09,0:14:50.95,Main,,0,0,0,,Giúp anh ấy đi.
 Dialogue: 12,0:15:06.59,0:15:07.83,Main,,0,0,0,,Đúng không nào~
 Dialogue: 12,0:15:07.94,0:15:09.00,Main,,0,0,0,,Đúng không nào~
 Dialogue: 12,0:15:17.87,0:15:18.58,Main,,0,0,0,,Được.
@@ -344,7 +341,7 @@ Dialogue: 12,0:15:25.57,0:15:26.79,Main,,0,0,0,,người mua trà sữa...
 Dialogue: 12,0:15:26.96,0:15:27.78,Main,,0,0,0,,không phải tôi.
 Dialogue: 12,0:15:32.02,0:15:32.91,Main,,0,0,0,,Cảm ơn nhé.
 Dialogue: 12,0:15:34.20,0:15:34.93,Main,,0,0,0,,Chết rồi.
-Dialogue: 12,0:15:34.93,0:15:36.80,Main,,0,0,0,,Quên không lưu lại số Anh Lượng rồi.
+Dialogue: 12,0:15:34.93,0:15:36.80,Main,,0,0,0,,Quên không lưu lại số anh Lượng rồi.
 Dialogue: 12,0:15:44.47,0:15:45.52,Main,,0,0,0,,Alo, ai đó?
 Dialogue: 12,0:15:46.86,0:15:47.55,Main,,0,0,0,,Thật sao?
 Dialogue: 12,0:15:48.28,0:15:49.60,Main,,0,0,0,,Tốt quá rồi, tốt quá rồi.

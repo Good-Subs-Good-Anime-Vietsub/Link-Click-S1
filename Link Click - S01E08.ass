@@ -15,8 +15,8 @@ Audio File: raws/Link Click - S01E08 - (BD 1080p HEVC FLAC AAC) [E1B1F94C].mkv
 Video File: raws/Link Click - S01E08 - (BD 1080p HEVC FLAC AAC) [E1B1F94C].mkv
 Video AR Value: 2.400000
 Video Zoom Percent: 1.000000
-Scroll Position: 2880
-Active Line: 2884
+Scroll Position: 525
+Active Line: 526
 Video Position: 31799
 
 [V4+ Styles]
@@ -37,576 +37,532 @@ Style: Insert Song 08,FOT-NewCinemaA Std D-EN,54,&H00FFFFFF,&H000000FF,&H0020202
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.97,0:00:03.07,Main,,0,0,0,,Đợi đã.
-Dialogue: 0,0:00:04.73,0:00:06.05,Main,,0,0,0,,Trước khi nhận nhiệm vụ,
-Dialogue: 0,0:00:06.05,0:00:06.95,Main,,0,0,0,,phải hỏi ý kiến tôi.
-Dialogue: 0,0:00:23.22,0:00:24.30,Main,,0,0,0,,Thế nào?
-Dialogue: 0,0:00:24.71,0:00:25.84,Main,,0,0,0,,Có giúp được không?
-Dialogue: 0,0:00:27.72,0:00:29.72,Main,,0,0,0,,Mấy bức ảnh này là gì thế?
-Dialogue: 0,0:00:30.02,0:00:32.14,Main,,0,0,0,,Nghi phạm rất gian xảo, cáo già.
-Dialogue: 0,0:00:32.35,0:00:34.13,Main,,0,0,0,,Gây án không có kẽ hở.
-Dialogue: 0,0:00:34.81,0:00:37.85,Main,,0,0,0,,Đây là bức ảnh duy nhất\N chúng tôi ghi lại được.
-Dialogue: 0,0:00:38.81,0:00:39.81,Main,,0,0,0,,Hắn phạm tội gì?
-Dialogue: 0,0:00:40.02,0:00:41.65,Main,,0,0,0,,Gần đây xảy ra nhiều vụ án mạng.
-Dialogue: 0,0:00:41.65,0:00:43.77,Main,,0,0,0,,Các vụ này này\N đều không rõ động cơ gây án.
-Dialogue: 0,0:00:43.98,0:00:46.48,Main,,0,0,0,,Giữa các nạn nhân không có điểm chung.
-Dialogue: 0,0:00:47.02,0:00:48.47,Main,,0,0,0,,Vì vậy chúng tôi suy đoán...
-Dialogue: 0,0:00:48.47,0:00:50.52,Main,,0,0,0,,khả năng đây là giết người hàng loạt.
-Dialogue: 0,0:00:51.95,0:00:54.16,Main,,0,0,0,,Nhưng với những manh mối hiện giờ,
-Dialogue: 0,0:00:54.16,0:00:55.52,Main,,0,0,0,,để tìm ra hung thủ thật sự,
-Dialogue: 0,0:00:55.52,0:00:56.70,Main,,0,0,0,,không dễ.
-Dialogue: 0,0:00:56.70,0:00:57.85,Main,,0,0,0,,Cái gì cơ?
-Dialogue: 0,0:00:57.85,0:01:00.19,Main,,0,0,0,,Lại có tên biến thái vô nhân tính thế à?
-Dialogue: 0,0:01:00.57,0:01:01.59,Main,,0,0,0,,Đang nói ai thế?
-Dialogue: 0,0:01:01.59,0:01:02.97,Main,,0,0,0,,Chuyện này không làm ngơ được.
-Dialogue: 0,0:01:02.97,0:01:03.93,Main,,0,0,0,,Càng sớm bắt được hắn...
-Dialogue: 0,0:01:03.93,0:01:05.09,Main,,0,0,0,,thì càng bớt nạn nhân.
-Dialogue: 0,0:01:05.37,0:01:06.64,Main,,0,0,0,,Trình Tiểu Thời!
-Dialogue: 0,0:01:06.64,0:01:08.49,Main,,0,0,0,,Ai cho phép cậu vượt quyền tôi hả!
-Dialogue: 0,0:01:08.90,0:01:10.21,Main,,0,0,0,,Đội trưởng Tiêu, anh mặc kệ cậu ta.
-Dialogue: 0,0:01:10.54,0:01:12.89,Main,,0,0,0,,Giúp được hay không\N thì phải hỏi Lục Quang.
-Dialogue: 0,0:01:13.06,0:01:14.59,Main,,0,0,0,,Tôi đã xem đại khái tình hình rồi.
-Dialogue: 0,0:01:14.86,0:01:15.84,Main,,0,0,0,,Xin lỗi.
-Dialogue: 0,0:01:15.84,0:01:16.85,Main,,0,0,0,,Lần này...
-Dialogue: 0,0:01:16.85,0:01:18.39,Main,,0,0,0,,chúng tôi không giúp được gì.
-Dialogue: 0,0:01:19.93,0:01:20.47,Main,,0,0,0,,Hả?
-Dialogue: 0,0:01:20.47,0:01:21.46,Main,,0,0,0,,Lục Quang!
-Dialogue: 0,0:01:21.46,0:01:22.55,Main,,0,0,0,,Cứ để vậy sao?
-Dialogue: 0,0:01:22.55,0:01:23.86,Main,,0,0,0,,Cậu đã xem kĩ chưa thế?
-Dialogue: 0,0:01:23.86,0:01:25.32,Main,,0,0,0,,Ây dà, đi thôi, đi thôi.
-Dialogue: 0,0:01:32.54,0:01:35.11,Main,,0,0,0,,Này, Lục Quang,\N có phải cậu xem qua loa không thế?
-Dialogue: 0,0:01:35.11,0:01:36.27,Main,,0,0,0,,Im nào.
-Dialogue: 0,0:01:36.27,0:01:38.41,Main,,0,0,0,,Vụ án lớn như vậy\N không phải trò đùa đâu.
-Dialogue: 0,0:01:38.97,0:01:41.33,Main,,0,0,0,,Dù sao thì tôi tin vào \Nphán đoán của Lục Quang.
-Dialogue: 0,0:03:04.87,0:03:05.90,Main,,0,0,0,,Lục Quang.
-Dialogue: 0,0:03:05.90,0:03:07.50,Main,,0,0,0,,Cậu thật sự đã xem kỹ rồi chứ?
-Dialogue: 0,0:03:07.50,0:03:09.63,Main,,0,0,0,,Hiếm lắm mới thấy cậu nói không được đó.
-Dialogue: 0,0:03:11.22,0:03:13.34,Main,,0,0,0,,Trước đây là ai nói\Nmuốn nghỉ một thời gian nhỉ?
-Dialogue: 0,0:03:13.34,0:03:14.50,Main,,0,0,0,,À thì, tôi...
-Dialogue: 0,0:03:14.50,0:03:15.54,Main,,0,0,0,,lúc đó...
-Dialogue: 0,0:03:15.54,0:03:17.06,Main,,0,0,0,,không phải...  n-nhưng sau đó...
-Dialogue: 0,0:03:17.06,0:03:18.66,Main,,0,0,0,,C-Chuyện đó... thì là...
-Dialogue: 0,0:03:20.68,0:03:22.07,Main,,0,0,0,,Ra tiếp khách đi!
-Dialogue: 0,0:03:22.52,0:03:24.68,Main,,0,0,0,,Cung nghênh bà chủ của tôi—
-Dialogue: 0,0:03:24.68,0:03:26.56,Main,,0,0,0,,Bà chủ, mời vào.
-Dialogue: 0,0:03:26.85,0:03:30.06,Main,,0,0,0,,Từ San San, không phải chị thi tiến sĩ sao,\N sao lại chạy đến đây?
-Dialogue: 0,0:03:31.64,0:03:34.90,Main,,0,0,0,,Tôi là cố ý đến đây để xem {\i1}người tách biệt xã hội{\i0}\N trở lại làm việc thế nào.
-Dialogue: 0,0:03:35.11,0:03:38.15,Main,,0,0,0,,Ái chà, thì ra là đi thị sát \Nđời sống nhân dân.
-Dialogue: 0,0:03:38.15,0:03:39.37,Main,,0,0,0,,Cũng khó trách.
-Dialogue: 0,0:03:39.37,0:03:41.66,Main,,0,0,0,,Đọc sách nhiều quá cũng khiến\N tách biệt xã hội đó.
-Dialogue: 0,0:03:41.66,0:03:42.79,Main,,0,0,0,,Hiểu mà, hiểu mà.
-Dialogue: 0,0:03:44.78,0:03:46.21,Main,,0,0,0,,Đành chịu thôi.
-Dialogue: 0,0:03:46.21,0:03:50.08,Main,,0,0,0,,Nhưng tôi không giống ai đó, \Nra trường rồi còn bám váy người khác.
-Dialogue: 0,0:03:50.39,0:03:51.55,Main,,0,0,0,,Giỏi nói rõ ra!
-Dialogue: 0,0:03:51.55,0:03:52.96,Main,,0,0,0,,Ai bám váy ai hả!
-Dialogue: 0,0:03:53.16,0:03:53.97,Main,,0,0,0,,Sao nào!!
-Dialogue: 0,0:03:53.97,0:03:55.22,Main,,0,0,0,,Nhà là Kiều Linh lo.
-Dialogue: 0,0:03:55.22,0:03:56.59,Main,,0,0,0,,Công việc thì Lục Quang lo.
-Dialogue: 0,0:03:56.59,0:03:58.09,Main,,0,0,0,,Lại chả ăn không ngồi rồi?
-Dialogue: 0,0:03:58.09,0:03:59.44,Main,,0,0,0,,Đây là hợp tác nhá!
-Dialogue: 0,0:03:59.44,0:04:01.68,Main,,0,0,0,,Chưa rõ đầu đuôi thì đừng phán lung tung!
-Dialogue: 0,0:04:01.68,0:04:03.55,Main,,0,0,0,,Chị chỉ toàn nhìn mặt bắt hình dong.
-Dialogue: 0,0:04:03.55,0:04:05.10,Main,,0,900,0,,EQ của chị cũng thấp quá đấy!
-Dialogue: 0,0:04:04.43,0:04:05.10,Main,,900,0,0,,Im đi.
-Dialogue: 0,0:04:05.52,0:04:06.99,Main,,0,0,0,,Tôi thường dặn cậu thế nào.
-Dialogue: 0,0:04:06.99,0:04:08.89,Main,,0,0,0,,Với bên A phải tỉ mỉ, chu đáo,
-Dialogue: 0,0:04:08.89,0:04:10.23,Main,,0,0,0,,cẩn thận, quan tâm.
-Dialogue: 0,0:04:11.06,0:04:13.23,Main,,0,0,0,,Bên A nào thế?
-Dialogue: 0,0:04:14.35,0:04:15.22,Main,,0,0,0,,Lẽ nào...
-Dialogue: 0,0:04:16.04,0:04:18.14,Main,,0,0,0,,nếu không phải Kiều Linh kéo đến xem sao,
-Dialogue: 0,0:04:18.14,0:04:19.66,Main,,0,0,0,,thì chị đây cũng chả thèm.
-Dialogue: 0,0:04:21.36,0:04:23.53,Main,,0,0,0,,Chị San San, chị muốn ủy thác việc gì?
-Dialogue: 0,0:04:23.95,0:04:24.97,Main,,0,0,0,,Kìa.
-Dialogue: 0,0:04:24.97,0:04:27.08,Main,,0,0,0,,Cái này thì phải để tôi giới thiệu.
-Dialogue: 0,0:04:27.08,0:04:28.35,Main,,0,0,0,,Nói ra thì...
-Dialogue: 0,0:04:28.35,0:04:29.89,Main,,0,0,0,,vẫn phải quay về cái thời...
-Dialogue: 0,0:04:29.89,0:04:31.51,Main,,0,0,0,,khí thế hừng hực của chúng ta.
-Dialogue: 0,0:04:31.51,0:04:33.41,Main,,0,0,0,,Thời đại học!
-Dialogue: 0,0:04:34.06,0:04:35.27,Main,,0,0,0,,Mọi người còn nhớ,
-Dialogue: 0,0:04:35.27,0:04:37.22,Main,,0,0,0,,ngoài 3 chúng ta ra, bên cạnh {\i1}Từ tiên cô{\i0} đây,
-Dialogue: 0,0:04:37.22,0:04:38.84,Main,,0,0,0,,còn một người anh em tốt,
-Dialogue: 0,0:04:38.84,0:04:40.15,Main,,0,0,0,,Đổng Dị.
-Dialogue: 0,0:04:41.06,0:04:42.31,Main,,0,0,0,,Không đi thì thôi.
-Dialogue: 0,0:04:42.56,0:04:44.15,Main,,0,0,0,,Vậy phạt cậu làm bài tập hộ mình.
-Dialogue: 0,0:04:44.15,0:04:46.61,Main,,0,0,0,,Buổi tối về,\N mình đứng dưới ký túc chỗ cậu lấy đấy.
-Dialogue: 0,0:04:49.03,0:04:50.22,Main,,0,0,0,,Mấy giờ thế?
-Dialogue: 0,0:04:50.22,0:04:51.49,Main,,0,0,0,,Nếu cửa ký túc khóa rồi,
-Dialogue: 0,0:04:51.49,0:04:52.86,Main,,0,0,0,,thì để tôi quăng xuống cho.
-Dialogue: 0,0:04:53.15,0:04:55.22,Main,,0,0,0,,Hai người cả ngày \Ncứ như cặp tình nhân.
-Dialogue: 0,0:04:55.22,0:04:57.05,Main,,0,0,0,,Sao không ba mặt một lời đi.
-Dialogue: 0,0:04:58.26,0:04:59.37,Main,,0,0,0,,Chuyện này...
-Dialogue: 0,0:04:59.37,0:05:01.11,Main,,0,0,0,,con trai phải chủ động chứ.
-Dialogue: 0,0:05:04.87,0:05:07.12,Main,,0,0,0,,Đổng Dị, ở đây.
-Dialogue: 0,0:05:08.15,0:05:09.45,Main,,0,0,0,,{\an8}Này, của cậu đây.
-Dialogue: 0,0:05:10.38,0:05:13.63,Main,,0,0,0,,{\an8}Hai trứng chiên, ít cay, \Nmột lạp xưởng, không rau thơm.
-Dialogue: 0,0:05:13.63,0:05:14.50,Main,,0,0,0,,Cảm ơn nhé.
-Dialogue: 0,0:05:14.50,0:05:15.34,Main,,0,0,0,,Hết bao nhiêu?
-Dialogue: 0,0:05:15.34,0:05:16.50,Main,,0,0,0,,Để chuyển qua wechat.
-Dialogue: 0,0:05:17.02,0:05:18.15,Main,,0,0,0,,Cái cậu này!
-Dialogue: 0,0:05:18.15,0:05:19.97,Main,,0,0,0,,Tiền nong gì, mất tình cảm.
-Dialogue: 0,0:05:19.97,0:05:21.38,Main,,0,0,0,,Bàn về điều kiện khác đi.
-Dialogue: 0,0:05:26.47,0:05:28.06,Main,,0,0,0,,Victory
-Dialogue: 0,0:05:28.52,0:05:29.33,Main,,0,0,0,,Yes!
-Dialogue: 0,0:05:29.33,0:05:30.61,Main,,0,0,0,,Mãi cũng lên bạch kim rồi.
-Dialogue: 0,0:05:30.61,0:05:32.89,Main,,0,0,0,,Trình của chị đây siêu cấp rồi.
-Dialogue: 0,0:05:32.89,0:05:34.23,Main,,0,0,0,,Dẫn theo tiểu đệ đệ như cậu,
-Dialogue: 0,0:05:34.23,0:05:35.44,Main,,0,0,0,,còn dư sức.
-Dialogue: 0,0:05:36.50,0:05:38.85,Main,,900,0,0,,Có phải trong đầu tôi có gì đó không?
-Dialogue: 0,0:05:38.85,0:05:40.90,Main,,900,0,0,,Mới đánh được mấy ván\N đã đau đầu rồi.
-Dialogue: 0,0:05:41.29,0:05:42.35,Main,,900,0,0,,Cậu cười cái gì?
-Dialogue: 0,0:05:42.35,0:05:44.40,Main,,0,0,0,,Này, có còn lương tâm không thế?
-Dialogue: 0,0:05:44.74,0:05:46.72,Main,,0,0,0,,Nhỡ đâu trong não có thứ gì đó tệ thì sao?
-Dialogue: 0,0:05:46.72,0:05:49.43,Main,,0,0,0,,Hiện nay là cả người trẻ \Ncũng có thể bị đấy.
-Dialogue: 0,0:05:49.43,0:05:51.04,Main,,0,0,0,,Bộ không nghe tin gì à?
-Dialogue: 0,0:05:52.60,0:05:53.43,Main,,0,0,0,,Cái gì?
-Dialogue: 0,0:05:53.43,0:05:54.77,Main,,0,0,0,,Chị và Đổng Dị lại là...
-Dialogue: 0,0:05:54.77,0:05:55.52,Main,,0,0,0,,một đôi.
-Dialogue: 0,0:05:56.01,0:05:58.34,Main,,0,0,0,,Rốt cuộc là ai EQ thấp đây.
-Dialogue: 0,0:05:59.47,0:06:00.85,Main,,0,0,0,,Bao nhiêu năm trời,
-Dialogue: 0,0:06:00.85,0:06:02.88,Main,,0,0,0,,mà cái cửa sổ bằng giấy này\Nvẫn chưa thủng.
-Dialogue: 0,0:06:02.88,0:06:04.22,Main,,0,0,0,,Sốt hết cả ruột.
-Dialogue: 0,0:06:04.47,0:06:06.51,Main,,0,0,0,,Cái gì? Thi nghiên cứu sinh?
-Dialogue: 0,0:06:06.72,0:06:08.47,Main,,0,0,0,,Ngạc nhiên cái gì thế?
-Dialogue: 0,0:06:08.71,0:06:10.30,Main,,0,0,0,,Chỉ là muốn học chuyên sâu thôi,
-Dialogue: 0,0:06:10.30,0:06:12.52,Main,,0,0,0,,sau này ra trường cũng dễ kiếm việc hơn.
-Dialogue: 0,0:06:13.85,0:06:15.34,Main,,0,0,0,,Từ tiên cô à,
-Dialogue: 0,0:06:15.34,0:06:16.47,Main,,0,0,0,,2 năm tới,
-Dialogue: 0,0:06:16.47,0:06:18.24,Main,,0,0,0,,không có em ở bên bầu bạn,
-Dialogue: 0,0:06:18.58,0:06:20.13,Main,,0,0,0,,nhớ tự chăm lo bản thân tốt đấy.
-Dialogue: 0,0:06:20.13,0:06:20.93,Main,,0,0,0,,Này.
-Dialogue: 0,0:06:20.93,0:06:21.73,Main,,0,0,0,,Tem tém lại.
-Dialogue: 0,0:06:21.73,0:06:23.20,Main,,0,0,0,,Bình thường ai chăm sóc ai hả?
-Dialogue: 0,0:06:23.20,0:06:23.97,Main,,0,0,0,,Em đi rồi.
-Dialogue: 0,0:06:23.97,0:06:25.23,Main,,0,0,0,,Chị càng nhẹ gánh.
-Dialogue: 0,0:06:25.23,0:06:26.41,Main,,0,0,0,,Được lắm!
-Dialogue: 0,0:06:26.41,0:06:28.21,Main,,0,0,0,,Từ lâu đã chết người ta rồi hả!
-Dialogue: 0,0:06:28.21,0:06:30.01,Main,,0,0,0,,Thật ra trong lòng chị hiểu rõ.
-Dialogue: 0,0:06:30.01,0:06:31.26,Main,,0,0,0,,Là vì Đổng Dị,
-Dialogue: 0,0:06:31.26,0:06:33.08,Main,,0,0,0,,nên mới quyết định ở lại học thêm.
-Dialogue: 0,0:06:33.35,0:06:35.45,Main,,0,0,0,,Giáo viên hướng dẫn của bọn mình \Nđểu lắm.
-Dialogue: 0,0:06:35.45,0:06:37.43,Main,,0,0,0,,Chỉ quan tâm đến cái công ty mở ngoài thôi.
-Dialogue: 0,0:06:37.43,0:06:38.85,Main,,0,0,0,,Chả thấy mặt mũi thầy đâu cả.
-Dialogue: 0,0:06:38.85,0:06:39.64,Main,,0,0,0,,Thôi mà.
-Dialogue: 0,0:06:39.64,0:06:40.98,Main,,0,0,0,,Tự lực cánh sinh thôi.
-Dialogue: 0,0:06:43.81,0:06:44.96,Main,,0,0,0,,Nhưng cô ấy...
-Dialogue: 0,0:06:44.96,0:06:47.10,Main,,0,0,0,,vẫn không đợi được câu nói đó.
-Dialogue: 0,0:06:47.60,0:06:50.56,Main,,0,0,0,,Thời gian thấm thoắt, năm tháng thoi đưa.
-Dialogue: 0,0:06:50.77,0:06:52.18,Main,,0,0,0,,2 năm nghiên cứu sinh,
-Dialogue: 0,0:06:52.18,0:06:53.58,Main,,0,0,0,,vội vã trôi qua.
-Dialogue: 0,0:06:53.58,0:06:55.01,Main,,0,0,0,,Cạn ly!
-Dialogue: 0,0:06:55.01,0:06:56.27,Main,,0,0,0,,Lại tốt nghiệp rồi!
-Dialogue: 0,0:06:56.27,0:06:56.70,Main,,0,0,0,,Phải.
-Dialogue: 0,0:06:56.70,0:06:57.89,Main,,0,0,0,,Xong đại học rồi thạc sĩ.
-Dialogue: 0,0:06:57.89,0:06:59.12,Main,,0,0,0,,Xong thạc sĩ rồi lại tiến sĩ.
-Dialogue: 0,0:06:59.12,0:07:00.18,Main,,0,0,0,,Học tiếp thôi.
-Dialogue: 0,0:07:00.18,0:07:01.52,Main,,0,0,0,,Thôi, không học nữa.
-Dialogue: 0,0:07:01.52,0:07:02.78,Main,,0,0,0,,Phải tìm việc chứ.
-Dialogue: 0,0:07:02.78,0:07:03.79,Main,,0,0,0,,{\an8}Tự lo bản thân nha!
-Dialogue: 0,0:07:03.79,0:07:04.87,Main,,0,0,0,,{\an8}Tôi cạn trước đây!
-Dialogue: 0,0:07:03.79,0:07:04.87,Main,,0,0,0,,Ây, Từ San San.
-Dialogue: 0,0:07:04.87,0:07:06.25,Main,,0,0,0,,Chụp một tấm cùng Đổng Dị đi.
-Dialogue: 0,0:07:05.61,0:07:07.35,Main,,0,0,0,,{\an8}Trên đời này, không có cuộc vui nào không tàn.
-Dialogue: 0,0:07:06.25,0:07:07.35,Main,,0,0,0,,Lại đây!
-Dialogue: 0,0:07:07.35,0:07:09.34,Main,,0,0,0,,Đàn ông đàn ang xấu hổ cái gì.
-Dialogue: 0,0:07:11.93,0:07:12.69,Main,,0,0,0,,Đây.
-Dialogue: 0,0:07:12.89,0:07:15.04,Main,,0,0,0,,Tối hôm trước chỉ có 2 tấm này thôi.
-Dialogue: 0,0:07:15.04,0:07:17.87,Main,,0,0,0,,Một tấm là tự sướng trước khi ăn.
-Dialogue: 0,0:07:20.06,0:07:21.69,Main,,0,0,0,,Trình Tiểu Thời, cậu có thôi đi không.
-Dialogue: 0,0:07:22.18,0:07:24.02,Main,,0,0,0,,Nói cụ thể về nội dung ủy thác đi đã.
-Dialogue: 0,0:07:24.02,0:07:25.10,Main,,0,0,0,,Để em xem lại...
-Dialogue: 0,0:07:25.10,0:07:26.83,Main,,0,0,0,,nên chọn bức nào cho phù hợp.
-Dialogue: 0,0:07:26.83,0:07:28.71,Main,,0,0,0,,Để chị kể tiếp.
-Dialogue: 0,0:07:28.71,0:07:31.54,Main,,0,0,0,,Hôm đó, sau khi tàn bữa cơm chia tay \Nthì có đi karaoke...
-Dialogue: 0,0:07:31.54,0:07:32.65,Main,,0,0,0,,đến tận đêm.
-Dialogue: 0,0:07:33.14,0:07:34.72,Main,,0,0,0,,Chị cũng chả rõ thế nào...
-Dialogue: 0,0:07:34.72,0:07:35.69,Main,,0,0,0,,mà lại uống say.
-Dialogue: 0,0:07:36.96,0:07:38.31,Main,,0,0,0,,Sau đó thì...
-Dialogue: 0,0:07:38.54,0:07:39.53,Main,,0,0,0,,Cút!
-Dialogue: 0,0:07:39.53,0:07:40.69,Main,,0,0,0,,Không như cậu nghĩ nhá!
-Dialogue: 0,0:07:40.69,0:07:41.52,Main,,0,0,0,,Đi đây!
-Dialogue: 0,0:07:41.52,0:07:42.61,Main,,0,0,0,,- Tạm biệt!\N- Lần sau tụ tập tiếp!
-Dialogue: 0,0:07:42.61,0:07:44.06,Main,,0,0,0,,Phát tài phát lộc nhá!
-Dialogue: 0,0:07:44.06,0:07:46.16,Main,,0,0,0,,Rảnh thì gọi cho nhau nghen!
-Dialogue: 0,0:07:46.16,0:07:47.61,Main,,0,0,0,,Tất nhiên rồi.
-Dialogue: 0,0:07:47.61,0:07:48.91,Main,,0,0,0,,Hẹn gặp lại nha, mọi người!
-Dialogue: 0,0:07:48.91,0:07:50.56,Main,,0,1200,0,,Này Đổng Dị, \Nthường xuyên liên lạc nhé.
-Dialogue: 0,0:07:48.91,0:07:50.56,Main,,600,0,0,,Từ San San, cậu chậm thôi.
-Dialogue: 0,0:07:50.56,0:07:51.27,Main,,0,1200,0,,Tạm biệt.
-Dialogue: 0,0:07:50.56,0:07:51.27,Main,,1200,0,0,,Đi thôi, đi thôi.
-Dialogue: 0,0:07:51.27,0:07:52.23,Main,,0,0,0,,À được.
-Dialogue: 0,0:07:52.50,0:07:53.77,Main,,0,0,0,,Đừng đi mà!
-Dialogue: 0,0:07:53.77,0:07:55.61,Main,,0,0,0,,- Không ai được đi hết.\N- Giải tán rồi.
-Dialogue: 0,0:07:55.61,0:07:56.72,Main,,0,0,0,,Giải tán hết rồi.
-Dialogue: 0,0:07:56.72,0:07:58.63,Main,,0,0,0,,Vậy cậu với mình làm tăng nữa.
-Dialogue: 0,0:07:58.85,0:08:00.22,Main,,0,0,0,,Chỗ này mạng kém quá.
-Dialogue: 0,0:08:00.22,0:08:01.90,Main,,0,0,0,,Không đặt xe được.
-Dialogue: 0,0:08:01.90,0:08:04.13,Main,,0,0,0,,Để qua bên kia xem sao.
-Dialogue: 0,0:08:05.77,0:08:07.40,Main,,0,0,0,,Họ đi đâu cũng được...
-Dialogue: 0,0:08:07.40,0:08:08.40,Main,,0,0,0,,nhưng cậu...
-Dialogue: 0,0:08:08.40,0:08:09.51,Main,,0,0,0,,không đi đâu cả.
-Dialogue: 0,0:08:13.64,0:08:14.65,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:08:15.02,0:08:16.22,Main,,0,0,0,,Tôi có chuyện này...
-Dialogue: 0,0:08:16.22,0:08:17.34,Main,,0,0,0,,muốn nói với cậu.
-Dialogue: 0,0:08:19.77,0:08:22.06,Main,,0,0,0,,Chả nhớ là nói gì nữa.
-Dialogue: 0,0:08:22.06,0:08:24.29,Main,,0,0,0,,Một chữ cũng không.
-Dialogue: 0,0:08:24.29,0:08:28.14,Main,,0,0,0,,Về sau tỉnh lại mới biết mình đã gây ra\N một đống chuyện xấu hổ, một đống rắc rối.
-Dialogue: 0,0:08:28.14,0:08:29.99,Main,,0,0,0,,Hối hận chết mất thôi.
-Dialogue: 0,0:08:30.68,0:08:32.41,Main,,0,0,0,,Chị đã để ý anh ta tới thế rồi.
-Dialogue: 0,0:08:32.41,0:08:34.41,Main,,0,0,0,,Vậy sao không đi hỏi thẳng anh ta đi.
-Dialogue: 0,0:08:34.41,0:08:36.10,Main,,0,0,0,,Chính là vì chị quá để ý,
-Dialogue: 0,0:08:36.10,0:08:37.73,Main,,0,0,0,,nên mới không dám hỏi.
-Dialogue: 0,0:08:38.43,0:08:39.85,Main,,0,0,0,,Sợ đáp án thật sự...
-Dialogue: 0,0:08:39.85,0:08:41.60,Main,,0,0,0,,lại không giống như mình nghĩ.
-Dialogue: 0,0:08:41.60,0:08:42.39,Main,,0,0,0,,Xì.
-Dialogue: 0,0:08:42.39,0:08:43.65,Main,,0,0,0,,Làm bộ làm tịch.
-Dialogue: 0,0:08:47.43,0:08:48.35,Main,,0,0,0,,Hiểu rồi.
-Dialogue: 0,0:08:48.35,0:08:49.39,Main,,0,0,0,,Việc này...
-Dialogue: 0,0:08:49.39,0:08:50.31,Main,,0,0,0,,tụi em có thể giúp.
-Dialogue: 0,0:08:50.31,0:08:51.06,Main,,0,0,0,,Cái gì?
-Dialogue: 0,0:08:51.06,0:08:51.97,Main,,0,0,0,,Đã đồng ý rồi?
-Dialogue: 0,0:08:51.97,0:08:52.90,Main,,0,0,0,,Từ từ đã.
-Dialogue: 0,0:08:53.19,0:08:54.57,Main,,0,0,0,,Cậu vừa mới nói giúp sao?
-Dialogue: 0,0:08:55.02,0:08:57.35,Main,,0,0,0,,Rõ ràng là một vụ làm ăn,\N sao có thể giúp không công thế được.
-Dialogue: 0,0:08:57.79,0:09:00.52,Main,,0,0,0,,Ít nhất cũng trả chút đỉnh chứ.
-Dialogue: 0,0:09:01.60,0:09:02.95,Main,,0,0,0,,Trình Tiểu Thời!
-Dialogue: 0,0:09:02.95,0:09:04.97,Main,,0,0,0,,- Hay cho cái tên ngốc nhà cậu.\N- Tôi cũng là vì món nợ của chị thôi mà.
-Dialogue: 0,0:09:05.22,0:09:07.23,Main,,0,0,0,,Chị có thể đồng ý giảm giá mà.
-Dialogue: 0,0:09:07.77,0:09:09.07,Main,,0,0,0,,Đừng có đánh vào mặt.
-Dialogue: 0,0:09:12.18,0:09:14.83,Main,,0,0,0,,Một ngày không bị đánh \Nlà não có vấn đề ngay.
-Dialogue: 0,0:09:15.00,0:09:16.28,Main,,0,0,0,,Này, em Kiều.
-Dialogue: 0,0:09:16.28,0:09:19.71,Main,,0,0,0,,Hai người họ làm cách nào\N để lấy được thông tin từ ảnh thế?
-Dialogue: 0,0:09:20.93,0:09:22.85,Main,,0,0,0,,Cụ thể thì em cũng không rõ cho lắm.
-Dialogue: 0,0:09:22.85,0:09:24.72,Main,,0,0,0,,Mỗi lần đều là hai người họ tự làm,
-Dialogue: 0,0:09:24.72,0:09:25.84,Main,,0,0,0,,cứ lảm nhảm ấy.
-Dialogue: 0,0:09:26.89,0:09:29.23,Main,,0,0,0,,Cảm giác Trình Tiểu Thời này\Nkhông đáng tin chút nào.
-Dialogue: 0,0:09:29.77,0:09:32.47,Main,,0,0,0,,Không biết có làm ra\Nchuyện gì vớ vẩn không.
-Dialogue: 0,0:09:32.77,0:09:34.52,Main,,0,0,0,,Công lý ở đâu!
-Dialogue: 0,0:09:34.52,0:09:36.64,Main,,0,0,0,,Đã cầu xin giúp đỡ, \Nlại còn phối hợp đánh tôi một trận.
-Dialogue: 0,0:09:36.64,0:09:37.22,Main,,0,0,0,,Tôi...
-Dialogue: 0,0:09:37.22,0:09:37.91,Main,,0,0,0,,Tôi...
-Dialogue: 0,0:09:37.91,0:09:39.19,Main,,0,0,0,,Tôi nhớ ra rồi.
-Dialogue: 0,0:09:41.68,0:09:42.76,Main,,0,0,0,,Yên tâm đi.
-Dialogue: 0,0:09:42.76,0:09:44.39,Main,,0,0,0,,Chắc là toàn dựa vào Lục Quang thôi.
-Dialogue: 0,0:09:44.39,0:09:46.37,Main,,0,0,0,,Còn Trình Tiểu Thời \Nchỉ là một công cụ.
-Dialogue: 0,0:09:46.37,0:09:47.57,Main,,0,0,0,,Lục Quang đáng tin là được rồi.
-Dialogue: 0,0:09:49.06,0:09:50.11,Main,,0,0,0,,Trình Tiểu Thời.
-Dialogue: 0,0:09:50.56,0:09:52.07,Main,,0,0,0,,Cậu có ý gì hả?
-Dialogue: 0,0:09:54.35,0:09:55.97,Main,,0,0,0,,Tôi nhớ ra rồi.
-Dialogue: 0,0:09:55.97,0:09:57.31,Main,,0,0,0,,Khi bước vào ảnh...
-Dialogue: 0,0:09:57.31,0:09:59.15,Main,,0,0,0,,chả phải tôi nói thế nào\N là sẽ thế đó.
-Dialogue: 0,0:09:59.54,0:10:00.77,Main,,0,0,0,,Tôi muốn thế nào...
-Dialogue: 0,0:10:00.77,0:10:02.19,Main,,0,0,0,,thì sẽ làm thế.
-Dialogue: 0,0:10:04.22,0:10:05.32,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:10:05.77,0:10:08.55,Main,,0,0,0,,Bệnh viện chỗ mẹ tôi \Ncó hai cơ hội thực tập.
-Dialogue: 0,0:10:08.55,0:10:10.91,Main,,0,0,0,,Nếu như chúng ta có thể thành đôi,
-Dialogue: 0,0:10:10.91,0:10:11.64,Main,,0,0,0,,bà ấy nói...
-Dialogue: 0,0:10:11.64,0:10:13.89,Main,,0,0,0,,có thể sắp xếp cho cậu một vị trí.
-Dialogue: 0,0:10:13.89,0:10:17.06,Main,,0,0,0,,Nhưng bà ấy lại không thích \Ncon gái tóc quá dài.
-Dialogue: 0,0:10:17.43,0:10:19.21,Main,,0,0,0,,Hả, cậu nói cái gì?
-Dialogue: 0,0:10:21.97,0:10:24.10,Main,,0,0,0,,Từ San San cậu quá đáng quá rồi đấy.
-Dialogue: 0,0:10:24.10,0:10:27.13,Main,,0,0,0,,Nếu cậu muốn từ chối tôi \Nthì cũng đừng có dẫm đạp bản thân thế chứ.
-Dialogue: 0,0:10:27.43,0:10:27.98,Main,,0,0,0,,Ấy
-Dialogue: 0,0:10:28.35,0:10:31.10,Main,,0,0,0,,Đùa cái mà sụp đổ ghê vậy.
-Dialogue: 0,0:10:31.10,0:10:33.78,Main,,0,0,0,,Cậu ta trông thì ngang ngược\N nhưng nội tâm lại yếu thế nhờ.
-Dialogue: 0,0:10:33.78,0:10:34.81,Main,,0,0,0,,Trình Tiểu Thời.
-Dialogue: 0,0:10:34.81,0:10:36.27,Main,,0,0,0,,Chú ý thân phận hiện giờ của cậu.
-Dialogue: 0,0:10:36.27,0:10:37.77,Main,,0,0,0,,Đừng gây rắc rối cho Từ San San.
-Dialogue: 0,0:10:37.77,0:10:39.82,Main,,0,0,0,,Có cần nhắc lại\N3 quy tắc đã thống nhất không?
-Dialogue: 0,0:10:39.82,0:10:40.90,Main,,0,0,0,,Khỏi!
-Dialogue: 0,0:10:40.90,0:10:42.52,Main,,0,0,0,,Đừng có đọc cái lời nguyền đó nữa.
-Dialogue: 0,0:10:42.52,0:10:43.22,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:10:43.22,0:10:44.14,Main,,0,0,0,,Hả?
-Dialogue: 0,0:10:45.35,0:10:47.24,Main,,0,0,0,,Tôi nghĩ... \Nchỗ này chưa có ai ngồi đúng chứ?
-Dialogue: 0,0:10:49.27,0:10:52.12,Main,,0,0,0,,Cảm giác này lại tới nữa rồi.
-Dialogue: 0,0:10:52.12,0:10:54.22,Main,,0,0,0,,Hơn nữa so với trước đây \Nthì còn đập nhanh hơn.
-Dialogue: 0,0:10:54.22,0:10:55.93,Main,,0,0,0,,Ngực thấy khó chịu quá.
-Dialogue: 0,0:10:55.93,0:10:56.64,Main,,0,0,0,,Chú ý một chút.
-Dialogue: 0,0:10:56.64,0:10:57.76,Main,,0,0,0,,Tay để ở đâu đấy?!
-Dialogue: 0,0:10:57.76,0:10:58.77,Main,,0,0,0,,Không có ai.
-Dialogue: 0,0:10:58.77,0:11:00.06,Main,,0,0,0,,Với mình mà còn khách sáo à.
-Dialogue: 0,0:11:00.06,0:11:01.46,Main,,0,0,0,,Với cái tính khí của cậu,
-Dialogue: 0,0:11:01.46,0:11:02.27,Main,,0,0,0,,tôi mà không hỏi cậu,
-Dialogue: 0,0:11:02.27,0:11:04.02,Main,,0,0,0,,thì sợ cậu sẽ đánh cho tôi\Nchạy mất dép.
-Dialogue: 0,0:11:04.02,0:11:06.46,Main,,0,0,0,,Này! Từ San San! \NHai người, cậu với Đổng Dị chụp một tấm đi.
-Dialogue: 0,0:11:06.46,0:11:06.90,Main,,0,0,0,,Nào!
-Dialogue: 0,0:11:07.85,0:11:08.85,Main,,0,0,0,,Lại đây!
-Dialogue: 0,0:11:08.85,0:11:10.81,Main,,0,0,0,ko.nhatquan,Đàn ông đàn ang còn xấu hổ à.
-Dialogue: 0,0:11:14.39,0:11:15.86,Main,,0,0,0,,Cậu thua rồi. Lại đi.
-Dialogue: 0,0:11:16.81,0:11:18.15,Main,,0,0,0,,Lại, lại lần nữa.
-Dialogue: 0,0:11:20.22,0:11:21.02,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:11:21.02,0:11:22.89,Main,,0,0,0,,Bạn học bao năm chưa từng nghe cậu hát.
-Dialogue: 0,0:11:22.89,0:11:24.25,Main,,0,0,0,,Hôm nay hát một bài đi.
-Dialogue: 0,0:11:24.25,0:11:25.22,Main,,0,0,0,,Tùy ý chọn.
-Dialogue: 0,0:11:25.22,0:11:26.57,Main,,0,0,0,,Bài nào cũng chơi!
-Dialogue: 0,0:11:27.81,0:11:28.60,Main,,0,0,0,,Ấy?
-Dialogue: 0,0:11:28.60,0:11:30.07,Main,,0,0,0,,Bình thường tiết chế lắm mà.
-Dialogue: 0,0:11:30.52,0:11:31.72,Main,,0,0,0,,Nay cậu có chút khang khác.
-Dialogue: 0,0:11:31.72,0:11:33.96,Main,,0,0,0,,Tôi phải uống vì tim đập kiểu này\N khó chịu quá.
-Dialogue: 0,0:11:33.96,0:11:34.80,Main,,0,0,0,,Trình Tiểu Thời.
-Dialogue: 0,0:11:34.80,0:11:36.01,Main,,0,0,0,,Đợi chút nữa uống say,
-Dialogue: 0,0:11:36.58,0:11:38.64,Main,,0,0,0,,thì khi quay về nhớ là \Nxuống lầu ngủ ở sofa đấy.
-Dialogue: 0,0:11:38.64,0:11:39.66,Main,,0,0,0,,Được rồi.
-Dialogue: 0,0:11:39.66,0:11:41.02,Main,,0,0,0,,Chả trách Từ San San lại uống say.
-Dialogue: 0,0:11:41.02,0:11:42.52,Main,,0,0,0,,Này, đủ rồi đấy.
-Dialogue: 0,0:11:43.89,0:11:46.24,Main,,0,0,0,,Tôi thấy cậu bình thường\N không có chuyện gì buồn phiền.
-Dialogue: 0,0:11:46.24,0:11:47.60,Main,,0,0,0,,Không cần mượn rượu giải sầu đâu.
-Dialogue: 0,0:11:47.60,0:11:49.18,Main,,0,0,0,,Cái đồ mọt sách nhà cậu.
-Dialogue: 0,0:11:49.18,0:11:50.97,Main,,0,0,0,,Vì sao lúc nào cũng lý tính thế hả.
-Dialogue: 0,0:11:50.97,0:11:53.61,Main,,0,0,0,,Có lúc cảm tính \Nmột lần không được sao?
-Dialogue: 0,0:11:54.85,0:11:57.95,Main,,0,0,0,,Cậu có biết... vì sao năm đó tôi lại\N chọn thi nghiên cứu sinh không?
-Dialogue: 0,0:12:00.52,0:12:01.52,Main,,0,0,0,,Không biết.
-Dialogue: 0,0:12:03.39,0:12:05.65,Main,,0,0,0,,Bởi vì 4 năm đại học tôi đã quen rồi.
-Dialogue: 0,0:12:06.89,0:12:08.84,Main,,0,0,0,,Quen có người ăn cơm cùng.
-Dialogue: 0,0:12:08.84,0:12:11.86,Main,,0,0,0,,Quen có người lên lớp cùng, \Nchơi game.
-Dialogue: 0,0:12:12.93,0:12:16.62,Main,,0,0,0,,Quen có người cùng tản bộ vu vơ \Nở trong vườn trường.
-Dialogue: 0,0:12:16.62,0:12:19.72,Main,,0,0,0,,Nói những lời vô tư nhưng lại thấu lòng.
-Dialogue: 0,0:12:21.43,0:12:22.56,Main,,0,0,0,,Vì vậy...
-Dialogue: 0,0:12:22.56,0:12:24.57,Main,,0,0,0,,thi nghiên cứu sinh là biện pháp trốn tránh.
-Dialogue: 0,0:12:25.06,0:12:26.25,Main,,0,0,0,,Nhưng bây giờ...
-Dialogue: 0,0:12:26.56,0:12:28.31,Main,,0,0,0,,cuối cùng vẫn là chọn rời đi.
-Dialogue: 0,0:12:28.31,0:12:29.23,Main,,0,0,0,,Rời đi?
-Dialogue: 0,0:12:29.23,0:12:31.10,Main,,0,0,0,,Chính là vì chị quá để ý,
-Dialogue: 0,0:12:31.10,0:12:32.44,Main,,0,0,0,,nên mới không dám hỏi.
-Dialogue: 0,0:12:33.43,0:12:36.35,Main,,0,0,0,,Sợ đáp án thật sự \Nlại không giống như mình nghĩ.
-Dialogue: 0,0:12:38.22,0:12:40.31,Main,,0,0,0,,Này Từ San San,\N đến bài chọn giúp cậu rồi đấy.
-Dialogue: 0,0:12:40.59,0:12:41.75,Main,,0,0,0,,Này, mic này.
-Dialogue: 0,0:13:01.28,0:13:03.02,Main,,0,0,0,,Tuyệt vời.
-Dialogue: 0,0:13:05.51,0:13:06.43,Main,,0,0,0,,Được đấy chứ.
-Dialogue: 0,0:13:23.93,0:13:26.52,Main,,0,0,0,,Oài! Lúc cần lên thì không lên! \NTính chơi đểu tôi à?!
-Dialogue: 0,0:13:27.16,0:13:28.97,Main,,0,0,0,,Này, có biết nghĩ không thế?!
-Dialogue: 0,0:13:28.97,0:13:31.10,Main,,0,0,0,,Lần nào lập nhóm,\Nchưa đủ người đã xông lên rồi.
-Dialogue: 0,0:13:31.10,0:13:34.29,Main,,0,0,0,,Là tôi ngắm chuẩn thời cơ rồi,\N do mấy người chậm quá ấy.
-Dialogue: 0,0:13:35.10,0:13:37.01,Main,,0,0,0,,Ba người có thể hứng khởi lên tí không?
-Dialogue: 0,0:13:37.01,0:13:39.42,Main,,0,0,0,,Trông như ba nén hương ấy,\Nchả có sức sống gì cả.
-Dialogue: 0,0:13:41.14,0:13:42.56,Main,,0,0,0,,Ấy, tôi xem nào.
-Dialogue: 0,0:13:42.56,0:13:44.71,Main,,0,0,0,,Có chụp rõ khuôn mặt \Nanh tuấn này của tôi không thế?
-Dialogue: 0,0:13:44.71,0:13:45.55,Main,,0,0,0,,Biến đi.
-Dialogue: 0,0:13:45.55,0:13:47.13,Main,,0,0,0,,Nhớ thường xuyên qua thăm nhé.
-Dialogue: 0,0:13:47.13,0:13:49.82,Main,,0,0,0,,Khó khăn lắm mới qua được vòng biện luận,\N đừng có trù ẻo thế chứ.
-Dialogue: 0,0:13:50.14,0:13:51.05,Main,,0,0,0,,Đổng Dị!
-Dialogue: 0,0:13:51.05,0:13:53.31,Main,,0,0,0,,Từ tiên cô nhà chúng tôi, \Ngiao cho cậu chăm sóc đấy.
-Dialogue: 0,0:14:03.93,0:14:04.81,Main,,0,0,0,,Cậu nói xem...
-Dialogue: 0,0:14:04.81,0:14:07.06,Main,,0,0,0,,hai chúng ta không hẹn\Nmà cùng chọn thi nghiên cứu sinh.
-Dialogue: 0,0:14:07.06,0:14:08.18,Main,,0,0,0,,Có phải trùng hợp lắm không?
-Dialogue: 0,0:14:08.18,0:14:08.83,Main,,0,0,0,,Trùng hợp?
-Dialogue: 0,0:14:09.35,0:14:10.72,Main,,0,0,0,,Thế cơ á?
-Dialogue: 0,0:14:10.72,0:14:12.79,Main,,0,0,0,,Có nhiều người khác\Nở lại học nghiên cứu sinh mà.
-Dialogue: 0,0:14:13.08,0:14:14.20,Main,,0,0,0,,Nhàm chán.
-Dialogue: 0,0:14:16.29,0:14:18.57,Main,,0,0,0,,Tiết học sáng mai vẫn là\Nphòng số 201 tòa nhà Dật Phu.
-Dialogue: 0,0:14:18.93,0:14:20.34,Main,,0,0,0,,Đừng quên quy tắc cũ đấy.
-Dialogue: 0,0:14:20.64,0:14:21.52,Main,,0,0,0,,Biết rồi.
-Dialogue: 0,0:14:21.52,0:14:24.77,Main,,0,0,0,,Hai trứng chiên, ít cay, \Nmột lạp xưởng, không rau thơm.
-Dialogue: 0,0:14:28.85,0:14:30.15,Main,,0,0,0,,Nếu có thể...
-Dialogue: 0,0:14:30.60,0:14:32.95,Main,,0,0,0,,tôi mãi mãi không muốn nói tạm biệt.
-Dialogue: 0,0:14:34.39,0:14:35.42,Main,,0,0,0,,Hay thật đấy.
-Dialogue: 0,0:14:36.97,0:14:38.61,Main,,0,0,0,,Khác gì ngôi sao đâu.
-Dialogue: 0,0:14:39.73,0:14:40.73,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:14:40.98,0:14:43.03,Main,,0,0,0,,6 năm làm anh em coi như bỏ phí rồi.
-Dialogue: 0,0:14:43.03,0:14:44.45,Main,,0,0,0,,Không ngờ cậu giấu kĩ thế.
-Dialogue: 0,0:14:44.45,0:14:45.46,Main,,0,0,0,,Hát hay lắm.
-Dialogue: 0,0:14:45.46,0:14:46.88,Main,,0,0,0,,Nhịp hơi rất ổn định.
-Dialogue: 0,0:14:46.88,0:14:49.07,Main,,0,0,0,,Hễ anh ta nói cái là\N tim liền đập không ngừng.
-Dialogue: 0,0:14:49.52,0:14:50.83,Main,,0,0,0,,Xem ra chỉ có thể...
-Dialogue: 0,0:14:51.02,0:14:52.46,Main,,0,0,0,,Uống tiếp nào!
-Dialogue: 0,0:14:52.46,0:14:55.28,Main,,0,0,0,,Anh chị em! Hát lên nào!
-Dialogue: 0,0:15:00.84,0:15:01.70,Main,,0,0,0,,Đi đây!
-Dialogue: 0,0:15:01.70,0:15:02.81,Main,,0,0,0,,- Tạm biệt!\N- Lần sau tụ tập tiếp!
-Dialogue: 0,0:15:02.81,0:15:04.02,Main,,0,0,0,,Phát tài phát lộc nhá!
-Dialogue: 0,0:15:04.02,0:15:05.77,Main,,0,0,0,,Rảnh thì gọi cho nhau nghen!
-Dialogue: 0,0:15:06.39,0:15:07.80,Main,,0,0,0,,Tất nhiên rồi.
-Dialogue: 0,0:15:07.80,0:15:09.10,Main,,0,0,0,,Hẹn gặp lại nha, mọi người!
-Dialogue: 0,0:15:09.27,0:15:10.72,Main,,0,1200,0,,Này Đổng Dị, \Nthường xuyên liên lạc nhé.
-Dialogue: 0,0:15:09.27,0:15:10.72,Main,,900,0,0,,Từ San San, cậu chậm thôi.
-Dialogue: 0,0:15:10.72,0:15:11.47,Main,,0,0,0,,Tạm biệt.
-Dialogue: 0,0:15:11.47,0:15:12.69,Main,,0,0,0,,À được.
-Dialogue: 0,0:15:12.69,0:15:13.73,Main,,0,0,0,,Đừng đi mà!
-Dialogue: 0,0:15:14.14,0:15:15.40,Main,,0,0,0,,- Không ai được đi hết.\N- Giải tán rồi.
-Dialogue: 0,0:15:15.72,0:15:16.77,Main,,0,0,0,,Giải tán hết rồi.
-Dialogue: 0,0:15:16.77,0:15:18.40,Main,,0,0,0,,Vậy cậu với mình làm tăng nữa.
-Dialogue: 0,0:15:19.02,0:15:20.20,Main,,0,0,0,,Chỗ này mạng kém quá.
-Dialogue: 0,0:15:20.20,0:15:21.97,Main,,0,0,0,,Không đặt xe được.
-Dialogue: 0,0:15:21.97,0:15:23.32,Main,,0,0,0,,Để qua bên kia xem sao.
-Dialogue: 0,0:15:26.02,0:15:27.57,Main,,0,0,0,,Họ đi đâu cũng được...
-Dialogue: 0,0:15:27.57,0:15:28.56,Main,,0,0,0,,nhưng cậu...
-Dialogue: 0,0:15:28.56,0:15:29.66,Main,,0,0,0,,không đi đâu cả.
-Dialogue: 0,0:15:30.10,0:15:31.64,Main,,0,0,0,,Biểu hiện cho đến giờ không tồi,
-Dialogue: 0,0:15:31.64,0:15:33.41,Main,,0,0,0,,kiên trì thêm một chút\N là hoàn thành ủy thác.
-Dialogue: 0,0:15:40.14,0:15:41.19,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:15:41.60,0:15:42.55,Main,,0,0,0,,Tôi có chuyện này...
-Dialogue: 0,0:15:42.55,0:15:43.84,Main,,0,0,0,,muốn nói với cậu.
-Dialogue: 0,0:15:50.10,0:15:51.72,Main,,0,0,0,,Hắn cứ lén la lén lút.
-Dialogue: 0,0:15:51.72,0:15:53.52,Main,,0,0,0,,Hình như thấy ở đâu rồi thì phải.
-Dialogue: 0,0:15:55.31,0:15:57.27,Main,,0,0,0,,Là tên giết người hàng loạt trong ảnh.
-Dialogue: 0,0:16:05.68,0:16:06.36,Main,,0,0,0,,Trình Tiểu Thời!
-Dialogue: 0,0:16:06.62,0:16:07.23,Main,,0,0,0,,Này.
-Dialogue: 0,0:16:16.97,0:16:17.98,Main,,0,0,0,,Không thể để hắn thoát.
-Dialogue: 0,0:16:18.46,0:16:20.19,Main,,0,0,0,,Từ San San, tỉnh rượu rồi à?
-Dialogue: 0,0:16:20.19,0:16:22.21,Main,,0,0,0,,Đáng ghét! Đầu vẫn quay mòng mòng.
-Dialogue: 0,0:16:22.21,0:16:22.93,Main,,0,0,0,,Này!
-Dialogue: 0,0:16:22.93,0:16:24.82,Main,,0,0,0,,Chạy qua bên đó làm gì thế?
-Dialogue: 0,0:16:42.56,0:16:43.47,Main,,0,0,0,,Trình Tiểu Thời.
-Dialogue: 0,0:16:43.47,0:16:44.40,Main,,0,0,0,,Nổi điên à?!
-Dialogue: 0,0:16:44.64,0:16:46.86,Main,,0,0,0,,Tôi vừa nhìn thấy nghi phạm\Ntrong bức ảnh camera giám sát.
-Dialogue: 0,0:16:47.72,0:16:48.81,Main,,0,0,0,,Đừng ngu ngốc thế.
-Dialogue: 0,0:16:48.81,0:16:50.73,Main,,0,0,0,,Chỉ dựa vào mình cậu\Nkhông bắt được hắn đâu.
-Dialogue: 0,0:16:51.85,0:16:52.93,Main,,0,0,0,,Huống hồ...
-Dialogue: 0,0:16:52.93,0:16:55.20,Main,,0,0,0,,đối phương lần này còn rắc rối hơn\Nbọn buôn người đấy.
-Dialogue: 0,0:16:55.93,0:16:57.70,Main,,0,0,0,,Nhưng tôi có thể chụp được\N dung mạo hắn.
-Dialogue: 0,0:16:57.70,0:16:59.12,Main,,0,0,0,,Ít nhất có thêm được manh mối.
-Dialogue: 0,0:16:59.12,0:17:00.61,Main,,0,0,0,,Giúp cảnh sát sớm phá án.
-Dialogue: 0,0:17:05.65,0:17:06.62,Main,,0,0,0,,Chết rồi.
-Dialogue: 0,0:17:06.62,0:17:07.59,Main,,0,0,0,,Điện thoại để đâu rồi?
-Dialogue: 0,0:17:09.34,0:17:10.09,Main,,0,0,0,,Cẩn thận đằng sau!
-Dialogue: 0,0:17:10.92,0:17:11.34,Main,,0,0,0,,Đợi đã!
-Dialogue: 0,0:17:12.14,0:17:13.32,Main,,0,0,0,,Nếu cậu đột ngột quay người,
-Dialogue: 0,0:17:13.68,0:17:15.10,Main,,0,0,0,,Rất có thể sẽ kích động hung thủ.
-Dialogue: 0,0:17:15.77,0:17:17.85,Main,,0,0,0,,Ngược lại sẽ khiến hắn tấn công mạnh hơn.
-Dialogue: 0,0:17:18.39,0:17:19.73,Main,,0,0,0,,Vậy tôi phải làm thế nào?
-Dialogue: 0,0:17:20.22,0:17:21.59,Main,,0,0,0,,Cố gắng tạo ra một...
-Dialogue: 0,0:17:21.59,0:17:23.31,Main,,0,0,0,,tình cảnh khiến hắn không thể ra tay.
-Dialogue: 0,0:17:23.31,0:17:24.68,Main,,0,0,0,,Sau đó chờ thời cơ.
-Dialogue: 0,0:17:24.68,0:17:26.68,Main,,0,0,0,,Không cách nào ra tay?\N Vậy chỉ có thể...
-Dialogue: 0,0:17:26.68,0:17:27.47,Main,,0,0,0,,Ây dà~
-Dialogue: 0,0:17:27.47,0:17:29.34,Main,,0,0,0,,Uống say mắc tè quá.
-Dialogue: 0,0:17:29.78,0:17:32.81,Main,,0,0,0,,Nước bay thẳng xuống ba nghìn thước.
-Dialogue: 0,0:17:32.81,0:17:35.58,Main,,0,0,0,,{\fad(0,600)}Tưởng dải Ngân Hà (tuột khỏi mây)
-Dialogue: 0,0:17:35.58,0:17:36.60,Main,,0,0,0,,Chết mịa!
-Dialogue: 0,0:17:36.60,0:17:38.40,Main,,0,0,0,,Quên mất tôi đang là con gái.
-Dialogue: 0,0:17:38.79,0:17:40.48,Main,,0,0,0,,Còn không mau đổi cách khác đi.
-Dialogue: 0,0:17:51.93,0:17:54.16,Main,,0,0,0,,Đến thế này rồi \Ncó định tha cho tôi không hả?
-Dialogue: 0,0:17:54.16,0:17:55.80,Main,,0,0,0,,Đúng là biến thái mà.
-Dialogue: 0,0:17:59.54,0:18:01.02,Main,,0,0,0,,Xông ra liều với hắn thôi.
-Dialogue: 0,0:18:01.52,0:18:02.31,Main,,0,0,0,,Không hay rồi.
-Dialogue: 0,0:18:02.31,0:18:03.17,Main,,0,0,0,,Đến thật rồi.
-Dialogue: 0,0:18:15.85,0:18:17.03,Main,,0,0,0,,Nguy hiểm qua rồi.
-Dialogue: 0,0:18:18.56,0:18:19.45,Main,,0,0,0,,Cậu đi đâu thế?
-Dialogue: 0,0:18:21.51,0:18:21.96,Main,,0,0,0,,Đừng!
-Dialogue: 0,0:18:23.22,0:18:24.35,Main,,0,0,0,,Nhận lấy này!
-Dialogue: 0,0:18:26.18,0:18:27.29,Main,,0,0,0,,Là tôi.
-Dialogue: 0,0:18:27.51,0:18:29.51,Main,,0,0,0,,Cậu học võ phòng thân bao giờ thế?
-Dialogue: 0,0:18:29.51,0:18:30.64,Main,,0,0,0,,Đổng Dị?
-Dialogue: 0,0:18:30.64,0:18:32.05,Main,,0,0,0,,Thế còn cái tên \Nđội mũ bóng chày đâu?
-Dialogue: 0,0:18:37.94,0:18:40.56,Main,,0,0,0,,Chả phải là tên... "chưa cai sữa" đó sao?
-Dialogue: 0,0:18:48.64,0:18:51.79,Main,,0,0,0,,Rõ ràng là một nam sinh \Ntỏ tình bất thành xong tính giở trò,
-Dialogue: 0,0:18:51.79,0:18:54.65,Main,,0,0,0,,mà lại trở thành tin nóng hổi \Nphá được kỳ án đô thị?
-Dialogue: 0,0:18:55.35,0:18:58.06,Main,,0,0,0,,Đám truyền thông vô đạo đức này \Ncũng nên biết điểm dừng chứ!
-Dialogue: 0,0:18:58.31,0:19:01.29,Main,,0,0,0,,Đành rằng tùng tin mù giật tít \Nthì cũng thôi đi.
-Dialogue: 0,0:19:01.70,0:19:04.14,Main,,0,0,0,,Đằng này còn để lộ cả ảnh người ta ra.
-Dialogue: 0,0:19:03.62,0:19:05.67,Main,,0,0,0,,{\an8}Bà chủ, mời vào!
-Dialogue: 0,0:19:04.14,0:19:05.67,Main,,0,0,0,,Hoàn thành ủy thác thế nào rồi?
-Dialogue: 0,0:19:06.52,0:19:07.97,Main,,0,0,0,,Vì bắt tên trộm vặt mà phân tâm rồi.
-Dialogue: 0,0:19:07.97,0:19:09.10,Main,,0,0,0,,Em ghi lại hết rồi.
-Dialogue: 0,0:19:09.42,0:19:11.57,Main,,0,0,0,,Quả nhiên là Lục Quang đáng tin.
-Dialogue: 0,0:19:12.05,0:19:12.68,Main,,0,0,0,,Đúng rồi.
-Dialogue: 0,0:19:12.68,0:19:14.39,Main,,0,0,0,,Suýt thì quên\Ncậu có góc nhìn bao quát.
-Dialogue: 0,0:19:14.39,0:19:16.43,Main,,0,0,0,,Này, rốt cuộc Đổng Dị nói gì thế?
-Dialogue: 0,0:19:17.39,0:19:20.18,Main,,0,0,0,,Tôi đã chuyển lời \Ncho chị San San xong cả rồi.
-Dialogue: 0,0:19:20.54,0:19:21.44,Main,,0,0,0,,Từ San San.
-Dialogue: 0,0:19:22.14,0:19:23.33,Main,,0,0,0,,Tôi có chuyện này...
-Dialogue: 0,0:19:23.33,0:19:24.52,Main,,0,0,0,,muốn nói với cậu.
-Dialogue: 0,0:19:24.97,0:19:28.32,Main,,0,0,0,,Lúc sắp tốt nghiệp,\N người nhà giục tôi trở về.
-Dialogue: 0,0:19:28.68,0:19:30.74,Main,,0,0,0,,Bố tôi đã sắp xếp ổn thỏa hết rồi.
-Dialogue: 0,0:19:32.31,0:19:34.10,Main,,0,0,0,,Vì vậy mà từ lâu tôi đã biết...
-Dialogue: 0,0:19:34.10,0:19:36.94,Main,,0,0,0,,sau khi tốt nghiệp \Ntôi không thể ở lại thành phố này nữa.
-Dialogue: 0,0:19:36.06,0:19:36.94,Main,,1400,0,0,,Đổng Dị!
-Dialogue: 0,0:19:38.72,0:19:40.10,Main,,0,0,0,,Trước đây \Ntôi không dám tỏ tình.
-Dialogue: 0,0:19:39.63,0:19:40.66,Main,,1300,0,0,,Buồn chuyện gì thế?
-Dialogue: 0,0:19:41.11,0:19:41.98,Main,,0,0,0,,Là vì...
-Dialogue: 0,0:19:42.81,0:19:45.44,Main,,0,0,0,,tôi sợ làm tổn thương em,\Nngười đã ở bên tôi 6 năm.
-Dialogue: 0,0:19:46.85,0:19:47.70,Main,,0,0,0,,À...
-Dialogue: 0,0:19:47.70,0:19:48.93,Main,,0,0,0,,đang lo vụ bảo vệ tốt nghiệp.
-Dialogue: 0,0:19:49.90,0:19:51.15,Main,,0,0,0,,Có gì to tát đâu.
-Dialogue: 0,0:19:51.60,0:19:53.92,Main,,0,0,0,,Buổi tối mình đã hẹn Kiều Linh\Nđi xem phim thư giãn rồi.
-Dialogue: 0,0:19:53.92,0:19:54.78,Main,,0,0,0,,Cậu đi không?
-Dialogue: 0,0:19:55.02,0:19:55.77,Main,,0,0,0,,Bỏ đi.
-Dialogue: 0,0:19:56.00,0:19:57.21,Main,,0,0,0,,Vẫn còn chút việc chưa xong.
-Dialogue: 0,0:19:57.21,0:19:58.39,Main,,0,0,0,,Không đi thì thôi.
-Dialogue: 0,0:19:58.70,0:20:00.02,Main,,0,0,0,,Vậy phạt cậu làm bài tập hộ mình.
-Dialogue: 0,0:20:00.02,0:20:02.39,Main,,0,0,0,,Buổi tối về,\N mình đứng dưới ký túc chỗ cậu lấy đấy.
-Dialogue: 0,0:20:04.31,0:20:05.31,Main,,0,0,0,,Mấy giờ thế?
-Dialogue: 0,0:20:05.31,0:20:06.60,Main,,0,0,0,,Nếu cửa ký túc khóa rồi,
-Dialogue: 0,0:20:06.60,0:20:08.27,Main,,0,0,0,,thì để tôi quăng xuống cho.
-Dialogue: 0,0:20:08.52,0:20:10.76,Main,,0,0,0,,Hai người cả ngày \Ncứ như cặp tình nhân.
-Dialogue: 0,0:20:10.76,0:20:12.65,Main,,0,0,0,,Sao không ba mặt một lời đi.
-Dialogue: 0,0:20:12.89,0:20:14.40,Main,,0,0,0,,Mãi cho đến hôm nay,
-Dialogue: 0,0:20:14.77,0:20:16.90,Main,,0,0,0,,không thể không tốt nghiệp\Ntôi mới nghĩ thông.
-Dialogue: 0,0:20:17.47,0:20:18.90,Main,,0,0,0,,Bất kể tương lai khó khăn thế nào,
-Dialogue: 0,0:20:19.31,0:20:20.74,Main,,0,0,0,,tôi vẫn muốn ở lại.
-Dialogue: 0,0:20:21.35,0:20:22.32,Main,,0,0,0,,Bởi vì...
-Dialogue: 0,0:20:22.77,0:20:23.86,Main,,0,0,0,,rời xa em...
-Dialogue: 0,0:20:24.38,0:20:26.14,Main,,0,0,0,,là đau khổ tột cùng.
-Dialogue: 0,0:20:26.43,0:20:29.62,Main,,0,0,0,,10 giờ sáng, anh ấy có buổi phỏng vấn\Nquan trọng ở tòa Union Building.
-Dialogue: 0,0:20:29.62,0:20:31.50,Main,,0,0,0,,Hi vọng chị có thể đi cùng.
-Dialogue: 0,0:20:31.70,0:20:34.19,Main,,0,0,0,,Đây là muốn San San thể hiện ra mà.
-Dialogue: 0,0:20:34.85,0:20:35.60,Main,,0,0,0,,Để hỏi xem sao.
-Dialogue: 0,0:20:35.60,0:20:36.63,Main,,0,0,0,,Xem sáng nay có đi không.
-Dialogue: 0,0:20:45.97,0:20:48.47,Main,,0,0,0,,Hôm nay có đi phỏng vấn\N cùng anh ấy không?
-Dialogue: 0,0:20:49.51,0:20:50.86,Main,,0,0,0,,Sao trả lời nhanh vậy.
-Dialogue: 0,0:20:50.86,0:20:53.11,Main,,0,0,0,,Trông có vẻ... \Nnước chảy thành sông rồi.
-Dialogue: 0,0:20:55.14,0:20:56.90,Main,,0,0,0,,Ấy! Đổng Dị!
-Dialogue: 0,0:20:58.68,0:21:00.30,Main,,0,0,0,,Cậu cũng tới phỏng vấn à?
-Dialogue: 0,0:21:00.54,0:21:01.66,Main,,0,0,0,,Sắp 10 giờ rồi.
-Dialogue: 0,0:21:01.66,0:21:03.02,Main,,0,0,0,,Còn đứng ngây ra đó làm gì?!
-Dialogue: 0,0:21:03.43,0:21:04.07,Main,,0,0,0,,À...
-Dialogue: 0,0:21:04.43,0:21:05.78,Main,,0,0,0,,Chút nữa tôi lên.
-Dialogue: 0,0:21:05.78,0:21:07.11,Main,,0,0,0,,Vậy mình lên trước đây.
-Dialogue: 0,0:21:16.35,0:21:18.06,Main,,0,0,0,,Lẽ nào lời mình nói hôm đó...
-Dialogue: 0,0:21:18.06,0:21:19.95,Main,,0,0,0,,vẫn còn làm cô ấy giận sao?
-Dialogue: 0,0:21:26.85,0:21:29.39,Main,,0,0,0,,San San... thế này là có ý gì?
-Dialogue: 0,0:21:34.60,0:21:35.34,Main,,0,0,0,,Kiều Linh!
-Dialogue: 0,0:21:35.34,0:21:36.53,Main,,0,0,0,,Gọi cho Từ San San xem sao.
-Dialogue: 0,0:21:37.53,0:21:38.39,Main,,0,0,0,,Ờ.
-Dialogue: 0,0:21:50.47,0:21:51.60,Main,,0,0,0,,Từ San San!
-Dialogue: 0,0:21:51.60,0:21:53.63,Main,,0,0,0,,Tin nhắn trong nhóm... là chị gửi à?
-Dialogue: 0,0:21:59.76,0:22:01.38,Main,,0,0,0,,Tôi sẽ...
-Dialogue: 0,0:22:02.18,0:22:04.89,Main,,0,0,0,,đến như đã hứa.
+Dialogue: 12,0:00:01.97,0:00:03.07,Main,,0,0,0,,Đợi đã.
+Dialogue: 12,0:00:04.73,0:00:06.05,Main,,0,0,0,,Trước khi nhận nhiệm vụ,
+Dialogue: 12,0:00:06.05,0:00:06.95,Main,,0,0,0,,phải hỏi ý kiến tôi.
+Dialogue: 12,0:00:23.22,0:00:24.30,Main,,0,0,0,,Thế nào?
+Dialogue: 12,0:00:24.71,0:00:25.84,Main,,0,0,0,,Có giúp được không?
+Dialogue: 12,0:00:27.72,0:00:29.72,Main,,0,0,0,,Mấy bức ảnh này là gì thế?
+Dialogue: 12,0:00:30.02,0:00:32.14,Main,,0,0,0,,Nghi phạm rất gian xảo, cáo già.
+Dialogue: 12,0:00:32.35,0:00:34.13,Main,,0,0,0,,Gây án không có kẽ hở.
+Dialogue: 12,0:00:34.81,0:00:37.85,Main,,0,0,0,,Đây là bức ảnh duy nhất\N chúng tôi ghi lại được.
+Dialogue: 12,0:00:38.81,0:00:39.81,Main,,0,0,0,,Hắn phạm tội gì?
+Dialogue: 12,0:00:40.02,0:00:41.65,Main,,0,0,0,,Gần đây xảy ra nhiều vụ án mạng.
+Dialogue: 12,0:00:41.65,0:00:43.77,Main,,0,0,0,,Các vụ này này\N đều không rõ động cơ gây án.
+Dialogue: 12,0:00:43.98,0:00:46.48,Main,,0,0,0,,Giữa các nạn nhân không có điểm chung.
+Dialogue: 12,0:00:47.02,0:00:48.47,Main,,0,0,0,,Vì vậy chúng tôi suy đoán...
+Dialogue: 12,0:00:48.47,0:00:50.52,Main,,0,0,0,,khả năng đây là giết người hàng loạt.
+Dialogue: 12,0:00:51.95,0:00:54.16,Main,,0,0,0,,Nhưng với những manh mối hiện giờ,
+Dialogue: 12,0:00:54.16,0:00:55.52,Main,,0,0,0,,để tìm ra hung thủ thật sự,
+Dialogue: 12,0:00:55.52,0:00:56.70,Main,,0,0,0,,không dễ.
+Dialogue: 12,0:00:56.70,0:00:57.85,Main,,0,0,0,,Cái gì cơ?
+Dialogue: 12,0:00:57.85,0:01:00.19,Main,,0,0,0,,Lại có tên biến thái vô nhân tính thế à?
+Dialogue: 12,0:01:00.57,0:01:01.59,Main,,0,0,0,,Đang nói ai thế?
+Dialogue: 12,0:01:01.59,0:01:02.97,Main,,0,0,0,,Chuyện này không làm ngơ được.
+Dialogue: 12,0:01:02.97,0:01:03.93,Main,,0,0,0,,Càng sớm bắt được hắn...
+Dialogue: 12,0:01:03.93,0:01:05.09,Main,,0,0,0,,thì càng bớt nạn nhân.
+Dialogue: 12,0:01:05.37,0:01:06.64,Main,,0,0,0,,Trình Tiểu Thời!
+Dialogue: 12,0:01:06.64,0:01:08.49,Main,,0,0,0,,Ai cho phép cậu vượt quyền tôi hả!
+Dialogue: 12,0:01:08.90,0:01:10.21,Main,,0,0,0,,Đội trưởng Tiêu, anh mặc kệ cậu ta.
+Dialogue: 12,0:01:10.54,0:01:12.89,Main,,0,0,0,,Giúp được hay không\N thì phải hỏi Lục Quang.
+Dialogue: 12,0:01:13.06,0:01:14.59,Main,,0,0,0,,Tôi đã xem đại khái tình hình rồi.
+Dialogue: 12,0:01:14.86,0:01:15.84,Main,,0,0,0,,Xin lỗi.
+Dialogue: 12,0:01:15.84,0:01:16.85,Main,,0,0,0,,Lần này...
+Dialogue: 12,0:01:16.85,0:01:18.39,Main,,0,0,0,,chúng tôi không giúp được gì.
+Dialogue: 12,0:01:19.93,0:01:20.47,Main,,0,0,0,,Hả?
+Dialogue: 12,0:01:20.47,0:01:21.46,Main,,0,0,0,,Lục Quang!
+Dialogue: 12,0:01:21.46,0:01:22.55,Main,,0,0,0,,Cứ để vậy sao?
+Dialogue: 12,0:01:22.55,0:01:23.86,Main,,0,0,0,,Cậu đã xem kĩ chưa thế?
+Dialogue: 12,0:01:23.86,0:01:25.32,Main,,0,0,0,,Ây dà, đi thôi, đi thôi.
+Dialogue: 12,0:01:32.54,0:01:35.11,Main,,0,0,0,,Này, Lục Quang,\N có phải cậu xem qua loa không thế?
+Dialogue: 12,0:01:35.11,0:01:36.27,Main,,0,0,0,,Im nào.
+Dialogue: 12,0:01:36.27,0:01:38.41,Main,,0,0,0,,Vụ án lớn như vậy\N không phải trò đùa đâu.
+Dialogue: 12,0:01:38.97,0:01:41.33,Main,,0,0,0,,Dù sao thì tôi tin vào \Nphán đoán của Lục Quang.
+Dialogue: 12,0:03:04.87,0:03:05.90,Main,,0,0,0,,Lục Quang.
+Dialogue: 12,0:03:05.90,0:03:07.50,Main,,0,0,0,,Cậu thật sự đã xem kỹ rồi chứ?
+Dialogue: 12,0:03:07.50,0:03:09.63,Main,,0,0,0,,Hiếm lắm mới thấy cậu nói không được đó.
+Dialogue: 12,0:03:11.22,0:03:13.34,Main,,0,0,0,,Trước đây là ai nói\Nmuốn nghỉ một thời gian nhỉ?
+Dialogue: 12,0:03:13.34,0:03:14.50,Main,,0,0,0,,À thì, tôi...
+Dialogue: 12,0:03:14.50,0:03:15.54,Main,,0,0,0,,lúc đó...
+Dialogue: 12,0:03:15.54,0:03:17.06,Main,,0,0,0,,không phải...  n-nhưng sau đó...
+Dialogue: 12,0:03:17.06,0:03:18.66,Main,,0,0,0,,C-Chuyện đó... thì là...
+Dialogue: 12,0:03:20.68,0:03:22.07,Main,,0,0,0,,Ra tiếp khách đi!
+Dialogue: 12,0:03:22.52,0:03:24.68,Main,,0,0,0,,Cung nghênh bà chủ của tôi—
+Dialogue: 12,0:03:24.68,0:03:26.56,Main,,0,0,0,,Bà chủ, mời vào.
+Dialogue: 12,0:03:26.85,0:03:30.06,Main,,0,0,0,,Từ San San, không phải chị thi tiến sĩ sao,\N sao lại chạy đến đây?
+Dialogue: 12,0:03:31.64,0:03:34.90,Main,,0,0,0,,Tôi là cố ý đến đây để xem {\i1}người tách biệt xã hội{\i0}\N trở lại làm việc thế nào.
+Dialogue: 12,0:03:35.11,0:03:38.15,Main,,0,0,0,,Ái chà, thì ra là đi thị sát \Nđời sống nhân dân.
+Dialogue: 12,0:03:38.15,0:03:39.37,Main,,0,0,0,,Cũng khó trách.
+Dialogue: 12,0:03:39.37,0:03:41.66,Main,,0,0,0,,Đọc sách nhiều quá cũng khiến\N tách biệt xã hội đó.
+Dialogue: 12,0:03:41.66,0:03:42.79,Main,,0,0,0,,Hiểu mà, hiểu mà.
+Dialogue: 12,0:03:44.78,0:03:46.21,Main,,0,0,0,,Đành chịu thôi.
+Dialogue: 12,0:03:46.21,0:03:50.08,Main,,0,0,0,,Nhưng tôi không giống ai đó, \Nra trường rồi còn bám váy người khác.
+Dialogue: 12,0:03:50.39,0:03:51.55,Main,,0,0,0,,Giỏi nói rõ ra!
+Dialogue: 12,0:03:51.55,0:03:52.96,Main,,0,0,0,,Ai bám váy ai hả!
+Dialogue: 12,0:03:53.16,0:03:53.97,Main,,0,0,0,,Sao nào!!
+Dialogue: 12,0:03:53.97,0:03:55.22,Main,,0,0,0,,Nhà là Kiều Linh lo.
+Dialogue: 12,0:03:55.22,0:03:56.59,Main,,0,0,0,,Công việc thì Lục Quang lo.
+Dialogue: 12,0:03:56.59,0:03:58.09,Main,,0,0,0,,Lại chả ăn không ngồi rồi?
+Dialogue: 12,0:03:58.09,0:03:59.44,Main,,0,0,0,,Đây là hợp tác nhá!
+Dialogue: 12,0:03:59.44,0:04:01.68,Main,,0,0,0,,Chưa rõ đầu đuôi thì đừng phán lung tung!
+Dialogue: 12,0:04:01.68,0:04:03.55,Main,,0,0,0,,Chị chỉ toàn nhìn mặt bắt hình dong.
+Dialogue: 12,0:04:03.55,0:04:05.10,Main,,0,900,0,,EQ của chị cũng thấp quá đấy!
+Dialogue: 12,0:04:04.43,0:04:05.10,Main,,900,0,0,,Im đi.
+Dialogue: 12,0:04:05.52,0:04:06.99,Main,,0,0,0,,Tôi thường dặn cậu thế nào.
+Dialogue: 12,0:04:06.99,0:04:08.89,Main,,0,0,0,,Với bên A phải tỉ mỉ, chu đáo,
+Dialogue: 12,0:04:08.89,0:04:10.23,Main,,0,0,0,,cẩn thận, quan tâm.
+Dialogue: 12,0:04:11.06,0:04:13.23,Main,,0,0,0,,Bên A nào thế?
+Dialogue: 12,0:04:14.35,0:04:15.22,Main,,0,0,0,,Lẽ nào...
+Dialogue: 12,0:04:16.04,0:04:18.14,Main,,0,0,0,,nếu không phải Kiều Linh kéo đến xem sao,
+Dialogue: 12,0:04:18.14,0:04:19.66,Main,,0,0,0,,thì chị đây cũng chả thèm.
+Dialogue: 12,0:04:21.36,0:04:23.53,Main,,0,0,0,,Chị San San, chị muốn ủy thác việc gì?
+Dialogue: 12,0:04:23.95,0:04:24.97,Main,,0,0,0,,Kìa.
+Dialogue: 12,0:04:24.97,0:04:27.08,Main,,0,0,0,,Cái này thì phải để tôi giới thiệu.
+Dialogue: 12,0:04:27.08,0:04:28.35,Main,,0,0,0,,Nói ra thì...
+Dialogue: 12,0:04:28.35,0:04:29.89,Main,,0,0,0,,vẫn phải quay về cái thời...
+Dialogue: 12,0:04:29.89,0:04:31.51,Main,,0,0,0,,khí thế hừng hực của chúng ta.
+Dialogue: 12,0:04:31.51,0:04:33.41,Main,,0,0,0,,Thời đại học!
+Dialogue: 12,0:04:34.06,0:04:35.27,Main,,0,0,0,,Mọi người còn nhớ,
+Dialogue: 12,0:04:35.27,0:04:37.22,Main,,0,0,0,,ngoài 3 chúng ta ra, bên cạnh {\i1}Từ tiên cô{\i0} đây,
+Dialogue: 12,0:04:37.22,0:04:38.84,Main,,0,0,0,,còn một người anh em tốt,
+Dialogue: 12,0:04:38.84,0:04:40.15,Main,,0,0,0,,Đổng Dị.
+Dialogue: 12,0:04:41.06,0:04:42.31,Main,,0,0,0,,Không đi thì thôi.
+Dialogue: 12,0:04:42.56,0:04:44.15,Main,,0,0,0,,Vậy phạt cậu làm bài tập hộ mình.
+Dialogue: 12,0:04:44.15,0:04:46.61,Main,,0,0,0,,Buổi tối về,\N mình đứng dưới ký túc chỗ cậu lấy đấy.
+Dialogue: 12,0:04:49.03,0:04:50.22,Main,,0,0,0,,Mấy giờ thế?
+Dialogue: 12,0:04:50.22,0:04:51.49,Main,,0,0,0,,Nếu cửa ký túc khóa rồi,
+Dialogue: 12,0:04:51.49,0:04:52.86,Main,,0,0,0,,thì để tôi quăng xuống cho.
+Dialogue: 12,0:04:53.15,0:04:55.22,Main,,0,0,0,,Hai người cả ngày \Ncứ như cặp tình nhân.
+Dialogue: 12,0:04:55.22,0:04:57.05,Main,,0,0,0,,Sao không ba mặt một lời đi.
+Dialogue: 12,0:04:58.26,0:04:59.37,Main,,0,0,0,,Chuyện này...
+Dialogue: 12,0:04:59.37,0:05:01.11,Main,,0,0,0,,con trai phải chủ động chứ.
+Dialogue: 12,0:05:04.87,0:05:07.12,Main,,0,0,0,,Đổng Dị, ở đây.
+Dialogue: 12,0:05:08.15,0:05:09.45,Main,,0,0,0,,{\an8}Này, của cậu đây.
+Dialogue: 12,0:05:10.38,0:05:13.63,Main,,0,0,0,,{\an8}Hai trứng chiên, ít cay, \Nmột lạp xưởng, không rau thơm.
+Dialogue: 12,0:05:13.63,0:05:14.50,Main,,0,0,0,,Cảm ơn nhé.
+Dialogue: 12,0:05:14.50,0:05:15.34,Main,,0,0,0,,Hết bao nhiêu?
+Dialogue: 12,0:05:15.34,0:05:16.50,Main,,0,0,0,,Để chuyển qua wechat.
+Dialogue: 12,0:05:17.02,0:05:18.15,Main,,0,0,0,,Cái cậu này!
+Dialogue: 12,0:05:18.15,0:05:19.97,Main,,0,0,0,,Tiền nong gì, mất tình cảm.
+Dialogue: 12,0:05:19.97,0:05:21.38,Main,,0,0,0,,Bàn về điều kiện khác đi.
+Dialogue: 12,0:05:26.47,0:05:28.06,Main,,0,0,0,,Victory
+Dialogue: 12,0:05:28.52,0:05:29.33,Main,,0,0,0,,Yes!
+Dialogue: 12,0:05:29.33,0:05:30.61,Main,,0,0,0,,Mãi cũng lên bạch kim rồi.
+Dialogue: 12,0:05:30.61,0:05:32.89,Main,,0,0,0,,Trình của chị đây siêu cấp rồi.
+Dialogue: 12,0:05:32.89,0:05:34.23,Main,,0,0,0,,Dẫn theo tiểu đệ đệ như cậu,
+Dialogue: 12,0:05:34.23,0:05:35.44,Main,,0,0,0,,còn dư sức.
+Dialogue: 12,0:05:36.50,0:05:38.85,Main,,900,0,0,,Có phải trong đầu tôi có gì đó không?
+Dialogue: 12,0:05:38.85,0:05:40.90,Main,,900,0,0,,Mới đánh được mấy ván\N đã đau đầu rồi.
+Dialogue: 12,0:05:41.29,0:05:42.35,Main,,900,0,0,,Cậu cười cái gì?
+Dialogue: 12,0:05:42.35,0:05:44.40,Main,,0,0,0,,Này, có còn lương tâm không thế?
+Dialogue: 12,0:05:44.74,0:05:46.72,Main,,0,0,0,,Nhỡ đâu trong não có thứ gì đó tệ thì sao?
+Dialogue: 12,0:05:46.72,0:05:49.43,Main,,0,0,0,,Hiện nay là cả người trẻ \Ncũng có thể bị đấy.
+Dialogue: 12,0:05:49.43,0:05:51.04,Main,,0,0,0,,Bộ không nghe tin gì à?
+Dialogue: 12,0:05:52.60,0:05:53.43,Main,,0,0,0,,Cái gì?
+Dialogue: 12,0:05:53.43,0:05:54.77,Main,,0,0,0,,Chị và Đổng Dị lại là...
+Dialogue: 12,0:05:54.77,0:05:55.52,Main,,0,0,0,,một đôi.
+Dialogue: 12,0:05:56.01,0:05:58.34,Main,,0,0,0,,Rốt cuộc là ai EQ thấp đây.
+Dialogue: 12,0:05:59.47,0:06:00.85,Main,,0,0,0,,Bao nhiêu năm trời,
+Dialogue: 12,0:06:00.85,0:06:02.88,Main,,0,0,0,,mà cái cửa sổ bằng giấy này\Nvẫn chưa thủng.
+Dialogue: 12,0:06:02.88,0:06:04.22,Main,,0,0,0,,Sốt hết cả ruột.
+Dialogue: 12,0:06:04.47,0:06:06.51,Main,,0,0,0,,Cái gì? Thi nghiên cứu sinh?
+Dialogue: 12,0:06:06.72,0:06:08.47,Main,,0,0,0,,Ngạc nhiên cái gì thế?
+Dialogue: 12,0:06:08.71,0:06:10.30,Main,,0,0,0,,Chỉ là muốn học chuyên sâu thôi,
+Dialogue: 12,0:06:10.30,0:06:12.52,Main,,0,0,0,,sau này ra trường cũng dễ kiếm việc hơn.
+Dialogue: 12,0:06:13.85,0:06:15.34,Main,,0,0,0,,Từ tiên cô à,
+Dialogue: 12,0:06:15.34,0:06:16.47,Main,,0,0,0,,2 năm tới,
+Dialogue: 12,0:06:16.47,0:06:18.24,Main,,0,0,0,,không có em ở bên bầu bạn,
+Dialogue: 12,0:06:18.58,0:06:20.13,Main,,0,0,0,,nhớ tự chăm lo bản thân tốt đấy.
+Dialogue: 12,0:06:20.13,0:06:20.93,Main,,0,0,0,,Này.
+Dialogue: 12,0:06:20.93,0:06:21.73,Main,,0,0,0,,Tem tém lại.
+Dialogue: 12,0:06:21.73,0:06:23.20,Main,,0,0,0,,Bình thường ai chăm sóc ai hả?
+Dialogue: 12,0:06:23.20,0:06:23.97,Main,,0,0,0,,Em đi rồi.
+Dialogue: 12,0:06:23.97,0:06:25.23,Main,,0,0,0,,Chị càng nhẹ gánh.
+Dialogue: 12,0:06:25.23,0:06:26.41,Main,,0,0,0,,Được lắm!
+Dialogue: 12,0:06:26.41,0:06:28.21,Main,,0,0,0,,Từ lâu đã chết người ta rồi hả!
+Dialogue: 12,0:06:28.21,0:06:30.01,Main,,0,0,0,,Thật ra trong lòng chị hiểu rõ.
+Dialogue: 12,0:06:30.01,0:06:31.26,Main,,0,0,0,,Là vì Đổng Dị,
+Dialogue: 12,0:06:31.26,0:06:33.08,Main,,0,0,0,,nên mới quyết định ở lại học thêm.
+Dialogue: 12,0:06:33.35,0:06:35.45,Main,,0,0,0,,Giáo viên hướng dẫn của bọn mình \Nđểu lắm.
+Dialogue: 12,0:06:35.45,0:06:37.43,Main,,0,0,0,,Chỉ quan tâm đến cái công ty mở ngoài thôi.
+Dialogue: 12,0:06:37.43,0:06:38.85,Main,,0,0,0,,Chả thấy mặt mũi thầy đâu cả.
+Dialogue: 12,0:06:38.85,0:06:39.64,Main,,0,0,0,,Thôi mà.
+Dialogue: 12,0:06:39.64,0:06:40.98,Main,,0,0,0,,Tự lực cánh sinh thôi.
+Dialogue: 12,0:06:43.81,0:06:44.96,Main,,0,0,0,,Nhưng cô ấy...
+Dialogue: 12,0:06:44.96,0:06:47.10,Main,,0,0,0,,vẫn không đợi được câu nói đó.
+Dialogue: 12,0:06:47.60,0:06:50.56,Main,,0,0,0,,Thời gian thấm thoắt, năm tháng thoi đưa.
+Dialogue: 12,0:06:50.77,0:06:52.18,Main,,0,0,0,,2 năm nghiên cứu sinh,
+Dialogue: 12,0:06:52.18,0:06:53.58,Main,,0,0,0,,vội vã trôi qua.
+Dialogue: 12,0:06:53.58,0:06:55.01,Main,,0,0,0,,Cạn ly!
+Dialogue: 12,0:06:55.01,0:06:56.27,Main,,0,0,0,,Lại tốt nghiệp rồi!
+Dialogue: 12,0:06:56.27,0:06:56.70,Main,,0,0,0,,Phải.
+Dialogue: 12,0:06:56.70,0:06:57.89,Main,,0,0,0,,Xong đại học rồi thạc sĩ.
+Dialogue: 12,0:06:57.89,0:06:59.12,Main,,0,0,0,,Xong thạc sĩ rồi lại tiến sĩ.
+Dialogue: 12,0:06:59.12,0:07:00.18,Main,,0,0,0,,Học tiếp thôi.
+Dialogue: 12,0:07:00.18,0:07:01.52,Main,,0,0,0,,Thôi, không học nữa.
+Dialogue: 12,0:07:01.52,0:07:02.78,Main,,0,0,0,,Phải tìm việc chứ.
+Dialogue: 12,0:07:02.78,0:07:03.79,Main,,0,0,0,,{\an8}Tự lo bản thân nha!
+Dialogue: 12,0:07:03.79,0:07:04.87,Main,,0,0,0,,{\an8}Tôi cạn trước đây!
+Dialogue: 12,0:07:03.79,0:07:04.87,Main,,0,0,0,,Ây, Từ San San.
+Dialogue: 12,0:07:04.87,0:07:06.25,Main,,0,0,0,,Chụp một tấm cùng Đổng Dị đi.
+Dialogue: 12,0:07:05.61,0:07:07.35,Main,,0,0,0,,{\an8}Trên đời này, không có cuộc vui nào không tàn.
+Dialogue: 12,0:07:06.25,0:07:07.35,Main,,0,0,0,,Lại đây!
+Dialogue: 12,0:07:07.35,0:07:09.34,Main,,0,0,0,,Đàn ông đàn ang xấu hổ cái gì.
+Dialogue: 12,0:07:11.93,0:07:12.69,Main,,0,0,0,,Đây.
+Dialogue: 12,0:07:12.89,0:07:15.04,Main,,0,0,0,,Tối hôm trước chỉ có 2 tấm này thôi.
+Dialogue: 12,0:07:15.04,0:07:17.87,Main,,0,0,0,,Một tấm là tự sướng trước khi ăn.
+Dialogue: 12,0:07:20.06,0:07:21.69,Main,,0,0,0,,Trình Tiểu Thời, cậu có thôi đi không.
+Dialogue: 12,0:07:22.18,0:07:24.02,Main,,0,0,0,,Nói cụ thể về nội dung ủy thác đi đã.
+Dialogue: 12,0:07:24.02,0:07:25.10,Main,,0,0,0,,Để em xem lại...
+Dialogue: 12,0:07:25.10,0:07:26.83,Main,,0,0,0,,nên chọn bức nào cho phù hợp.
+Dialogue: 12,0:07:26.83,0:07:28.71,Main,,0,0,0,,Để chị kể tiếp.
+Dialogue: 12,0:07:28.71,0:07:31.54,Main,,0,0,0,,Hôm đó, sau khi tàn bữa cơm chia tay \Nthì có đi karaoke...
+Dialogue: 12,0:07:31.54,0:07:32.65,Main,,0,0,0,,đến tận đêm.
+Dialogue: 12,0:07:33.14,0:07:34.72,Main,,0,0,0,,Chị cũng chả rõ thế nào...
+Dialogue: 12,0:07:34.72,0:07:35.69,Main,,0,0,0,,mà lại uống say.
+Dialogue: 12,0:07:36.96,0:07:38.31,Main,,0,0,0,,Sau đó thì...
+Dialogue: 12,0:07:38.54,0:07:39.53,Main,,0,0,0,,Cút!
+Dialogue: 12,0:07:39.53,0:07:40.69,Main,,0,0,0,,Không như cậu nghĩ nhá!
+Dialogue: 12,0:07:40.69,0:07:41.52,Main,,0,0,0,,Đi đây!
+Dialogue: 12,0:07:41.52,0:07:42.61,Main,,0,0,0,,- Tạm biệt!\N- Lần sau tụ tập tiếp!
+Dialogue: 12,0:07:42.61,0:07:44.06,Main,,0,0,0,,Phát tài phát lộc nhá!
+Dialogue: 12,0:07:44.06,0:07:46.16,Main,,0,0,0,,Rảnh thì gọi cho nhau nghen!
+Dialogue: 12,0:07:46.16,0:07:47.61,Main,,0,0,0,,Tất nhiên rồi.
+Dialogue: 12,0:07:47.61,0:07:48.91,Main,,0,0,0,,Hẹn gặp lại nha, mọi người!
+Dialogue: 12,0:07:48.91,0:07:50.56,Main,,0,1200,0,,Này Đổng Dị, \Nthường xuyên liên lạc nhé.
+Dialogue: 12,0:07:48.91,0:07:50.56,Main,,600,0,0,,Từ San San, cậu chậm thôi.
+Dialogue: 12,0:07:50.56,0:07:51.27,Main,,0,1200,0,,Tạm biệt.
+Dialogue: 12,0:07:50.56,0:07:51.27,Main,,1200,0,0,,Đi thôi, đi thôi.
+Dialogue: 12,0:07:51.27,0:07:52.23,Main,,0,0,0,,À được.
+Dialogue: 12,0:07:52.50,0:07:53.77,Main,,0,0,0,,Đừng đi mà!
+Dialogue: 12,0:07:53.77,0:07:55.61,Main,,0,0,0,,- Không ai được đi hết.\N- Giải tán rồi.
+Dialogue: 12,0:07:55.61,0:07:56.72,Main,,0,0,0,,Giải tán hết rồi.
+Dialogue: 12,0:07:56.72,0:07:58.63,Main,,0,0,0,,Vậy cậu với mình làm tăng nữa.
+Dialogue: 12,0:07:58.85,0:08:00.22,Main,,0,0,0,,Chỗ này mạng kém quá.
+Dialogue: 12,0:08:00.22,0:08:01.90,Main,,0,0,0,,Không đặt xe được.
+Dialogue: 12,0:08:01.90,0:08:04.13,Main,,0,0,0,,Để qua bên kia xem sao.
+Dialogue: 12,0:08:05.77,0:08:07.40,Main,,0,0,0,,Họ đi đâu cũng được...
+Dialogue: 12,0:08:07.40,0:08:08.40,Main,,0,0,0,,nhưng cậu...
+Dialogue: 12,0:08:08.40,0:08:09.51,Main,,0,0,0,,không đi đâu cả.
+Dialogue: 12,0:08:13.64,0:08:14.65,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:08:15.02,0:08:16.22,Main,,0,0,0,,Tôi có chuyện này...
+Dialogue: 12,0:08:16.22,0:08:17.34,Main,,0,0,0,,muốn nói với cậu.
+Dialogue: 12,0:08:19.77,0:08:22.06,Main,,0,0,0,,Chả nhớ là nói gì nữa.
+Dialogue: 12,0:08:22.06,0:08:24.29,Main,,0,0,0,,Một chữ cũng không.
+Dialogue: 12,0:08:24.29,0:08:28.14,Main,,0,0,0,,Về sau tỉnh lại mới biết mình đã gây ra\N một đống chuyện xấu hổ, một đống rắc rối.
+Dialogue: 12,0:08:28.14,0:08:29.99,Main,,0,0,0,,Hối hận chết mất thôi.
+Dialogue: 12,0:08:30.68,0:08:32.41,Main,,0,0,0,,Chị đã để ý anh ta tới thế rồi.
+Dialogue: 12,0:08:32.41,0:08:34.41,Main,,0,0,0,,Vậy sao không đi hỏi thẳng anh ta đi.
+Dialogue: 12,0:08:34.41,0:08:36.10,Main,,0,0,0,,Chính là vì chị quá để ý,
+Dialogue: 12,0:08:36.10,0:08:37.73,Main,,0,0,0,,nên mới không dám hỏi.
+Dialogue: 12,0:08:38.43,0:08:39.85,Main,,0,0,0,,Sợ đáp án thật sự...
+Dialogue: 12,0:08:39.85,0:08:41.60,Main,,0,0,0,,lại không giống như mình nghĩ.
+Dialogue: 12,0:08:41.60,0:08:42.39,Main,,0,0,0,,Xì.
+Dialogue: 12,0:08:42.39,0:08:43.65,Main,,0,0,0,,Làm bộ làm tịch.
+Dialogue: 12,0:08:47.43,0:08:48.35,Main,,0,0,0,,Hiểu rồi.
+Dialogue: 12,0:08:48.35,0:08:49.39,Main,,0,0,0,,Việc này...
+Dialogue: 12,0:08:49.39,0:08:50.31,Main,,0,0,0,,tụi em có thể giúp.
+Dialogue: 12,0:08:50.31,0:08:51.06,Main,,0,0,0,,Cái gì?
+Dialogue: 12,0:08:51.06,0:08:51.97,Main,,0,0,0,,Đã đồng ý rồi?
+Dialogue: 12,0:08:51.97,0:08:52.90,Main,,0,0,0,,Từ từ đã.
+Dialogue: 12,0:08:53.19,0:08:54.57,Main,,0,0,0,,Cậu vừa mới nói giúp sao?
+Dialogue: 12,0:08:55.02,0:08:57.35,Main,,0,0,0,,Rõ ràng là một vụ làm ăn,\N sao có thể giúp không công thế được.
+Dialogue: 12,0:08:57.79,0:09:00.52,Main,,0,0,0,,Ít nhất cũng trả chút đỉnh chứ.
+Dialogue: 12,0:09:01.60,0:09:02.95,Main,,0,0,0,,Trình Tiểu Thời!
+Dialogue: 12,0:09:02.95,0:09:04.97,Main,,0,0,0,,- Hay cho cái tên ngốc nhà cậu.\N- Tôi cũng là vì món nợ của chị thôi mà.
+Dialogue: 12,0:09:05.22,0:09:07.23,Main,,0,0,0,,Chị có thể đồng ý giảm giá mà.
+Dialogue: 12,0:09:07.77,0:09:09.07,Main,,0,0,0,,Đừng có đánh vào mặt.
+Dialogue: 12,0:09:12.18,0:09:14.83,Main,,0,0,0,,Một ngày không bị đánh \Nlà não có vấn đề ngay.
+Dialogue: 12,0:09:15.00,0:09:16.28,Main,,0,0,0,,Này, em Kiều.
+Dialogue: 12,0:09:16.28,0:09:19.71,Main,,0,0,0,,Hai người họ làm cách nào\N để lấy được thông tin từ ảnh thế?
+Dialogue: 12,0:09:20.93,0:09:22.85,Main,,0,0,0,,Cụ thể thì em cũng không rõ cho lắm.
+Dialogue: 12,0:09:22.85,0:09:24.72,Main,,0,0,0,,Mỗi lần đều là hai người họ tự làm,
+Dialogue: 12,0:09:24.72,0:09:25.84,Main,,0,0,0,,cứ lảm nhảm ấy.
+Dialogue: 12,0:09:26.89,0:09:29.23,Main,,0,0,0,,Cảm giác Trình Tiểu Thời này\Nkhông đáng tin chút nào.
+Dialogue: 12,0:09:29.77,0:09:32.47,Main,,0,0,0,,Không biết có làm ra\Nchuyện gì vớ vẩn không.
+Dialogue: 12,0:09:32.77,0:09:34.52,Main,,0,0,0,,Công lý ở đâu!
+Dialogue: 12,0:09:34.52,0:09:36.64,Main,,0,0,0,,Đã cầu xin giúp đỡ, \Nlại còn phối hợp đánh tôi một trận.
+Dialogue: 12,0:09:36.64,0:09:37.22,Main,,0,0,0,,Tôi...
+Dialogue: 12,0:09:37.22,0:09:37.91,Main,,0,0,0,,Tôi...
+Dialogue: 12,0:09:37.91,0:09:39.19,Main,,0,0,0,,Tôi nhớ ra rồi.
+Dialogue: 12,0:09:41.68,0:09:42.76,Main,,0,0,0,,Yên tâm đi.
+Dialogue: 12,0:09:42.76,0:09:44.39,Main,,0,0,0,,Chắc là toàn dựa vào Lục Quang thôi.
+Dialogue: 12,0:09:44.39,0:09:46.37,Main,,0,0,0,,Còn Trình Tiểu Thời \Nchỉ là một công cụ.
+Dialogue: 12,0:09:46.37,0:09:47.57,Main,,0,0,0,,Lục Quang đáng tin là được rồi.
+Dialogue: 12,0:09:49.06,0:09:50.11,Main,,0,0,0,,Trình Tiểu Thời.
+Dialogue: 12,0:09:50.56,0:09:52.07,Main,,0,0,0,,Cậu có ý gì hả?
+Dialogue: 12,0:09:54.35,0:09:55.97,Main,,0,0,0,,Tôi nhớ ra rồi.
+Dialogue: 12,0:09:55.97,0:09:57.31,Main,,0,0,0,,Khi bước vào ảnh...
+Dialogue: 12,0:09:57.31,0:09:59.15,Main,,0,0,0,,chả phải tôi nói thế nào\N là sẽ thế đó.
+Dialogue: 12,0:09:59.54,0:10:00.77,Main,,0,0,0,,Tôi muốn thế nào...
+Dialogue: 12,0:10:00.77,0:10:02.19,Main,,0,0,0,,thì sẽ làm thế.
+Dialogue: 12,0:10:04.22,0:10:05.32,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:10:05.77,0:10:08.55,Main,,0,0,0,,Bệnh viện chỗ mẹ tôi \Ncó hai cơ hội thực tập.
+Dialogue: 12,0:10:08.55,0:10:10.91,Main,,0,0,0,,Nếu như chúng ta có thể thành đôi,
+Dialogue: 12,0:10:10.91,0:10:11.64,Main,,0,0,0,,bà ấy nói...
+Dialogue: 12,0:10:11.64,0:10:13.89,Main,,0,0,0,,có thể sắp xếp cho cậu một vị trí.
+Dialogue: 12,0:10:13.89,0:10:17.06,Main,,0,0,0,,Nhưng bà ấy lại không thích \Ncon gái tóc quá dài.
+Dialogue: 12,0:10:17.43,0:10:19.21,Main,,0,0,0,,Hả, cậu nói cái gì?
+Dialogue: 12,0:10:21.97,0:10:24.10,Main,,0,0,0,,Từ San San cậu quá đáng quá rồi đấy.
+Dialogue: 12,0:10:24.10,0:10:27.13,Main,,0,0,0,,Nếu cậu muốn từ chối tôi \Nthì cũng đừng có dẫm đạp bản thân thế chứ.
+Dialogue: 12,0:10:27.43,0:10:27.98,Main,,0,0,0,,Ấy
+Dialogue: 12,0:10:28.35,0:10:31.10,Main,,0,0,0,,Đùa cái mà sụp đổ ghê vậy.
+Dialogue: 12,0:10:31.10,0:10:33.78,Main,,0,0,0,,Cậu ta trông thì ngang ngược\N nhưng nội tâm lại yếu thế nhờ.
+Dialogue: 12,0:10:33.78,0:10:34.81,Main,,0,0,0,,Trình Tiểu Thời.
+Dialogue: 12,0:10:34.81,0:10:36.27,Main,,0,0,0,,Chú ý thân phận hiện giờ của cậu.
+Dialogue: 12,0:10:36.27,0:10:37.77,Main,,0,0,0,,Đừng gây rắc rối cho Từ San San.
+Dialogue: 12,0:10:37.77,0:10:39.82,Main,,0,0,0,,Có cần nhắc lại\N3 quy tắc đã thống nhất không?
+Dialogue: 12,0:10:39.82,0:10:40.90,Main,,0,0,0,,Khỏi!
+Dialogue: 12,0:10:40.90,0:10:42.52,Main,,0,0,0,,Đừng có đọc cái lời nguyền đó nữa.
+Dialogue: 12,0:10:42.52,0:10:43.22,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:10:43.22,0:10:44.14,Main,,0,0,0,,Hả?
+Dialogue: 12,0:10:45.35,0:10:47.24,Main,,0,0,0,,Tôi nghĩ... \Nchỗ này chưa có ai ngồi đúng chứ?
+Dialogue: 12,0:10:49.27,0:10:52.12,Main,,0,0,0,,Cảm giác này lại tới nữa rồi.
+Dialogue: 12,0:10:52.12,0:10:54.22,Main,,0,0,0,,Hơn nữa so với trước đây \Nthì còn đập nhanh hơn.
+Dialogue: 12,0:10:54.22,0:10:55.93,Main,,0,0,0,,Ngực thấy khó chịu quá.
+Dialogue: 12,0:10:55.93,0:10:56.64,Main,,0,0,0,,Chú ý một chút.
+Dialogue: 12,0:10:56.64,0:10:57.76,Main,,0,0,0,,Tay để ở đâu đấy?!
+Dialogue: 12,0:10:57.76,0:10:58.77,Main,,0,0,0,,Không có ai.
+Dialogue: 12,0:10:58.77,0:11:00.06,Main,,0,0,0,,Với mình mà còn khách sáo à.
+Dialogue: 12,0:11:00.06,0:11:01.46,Main,,0,0,0,,Với cái tính khí của cậu,
+Dialogue: 12,0:11:01.46,0:11:02.27,Main,,0,0,0,,tôi mà không hỏi cậu,
+Dialogue: 12,0:11:02.27,0:11:04.02,Main,,0,0,0,,thì sợ cậu sẽ đánh cho tôi\Nchạy mất dép.
+Dialogue: 12,0:11:04.02,0:11:06.46,Main,,0,0,0,,Này! Từ San San! \NHai người, cậu với Đổng Dị chụp một tấm đi.
+Dialogue: 12,0:11:06.46,0:11:06.90,Main,,0,0,0,,Nào!
+Dialogue: 12,0:11:07.85,0:11:08.85,Main,,0,0,0,,Lại đây!
+Dialogue: 12,0:11:08.85,0:11:10.81,Main,,0,0,0,ko.nhatquan,Đàn ông đàn ang còn xấu hổ à.
+Dialogue: 12,0:11:14.39,0:11:15.86,Main,,0,0,0,,Cậu thua rồi. Lại đi.
+Dialogue: 12,0:11:16.81,0:11:18.15,Main,,0,0,0,,Lại, lại lần nữa.
+Dialogue: 12,0:11:20.22,0:11:21.02,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:11:21.02,0:11:22.89,Main,,0,0,0,,Bạn học bao năm chưa từng nghe cậu hát.
+Dialogue: 12,0:11:22.89,0:11:24.25,Main,,0,0,0,,Hôm nay hát một bài đi.
+Dialogue: 12,0:11:24.25,0:11:25.22,Main,,0,0,0,,Tùy ý chọn.
+Dialogue: 12,0:11:25.22,0:11:26.57,Main,,0,0,0,,Bài nào cũng chơi!
+Dialogue: 12,0:11:27.81,0:11:28.60,Main,,0,0,0,,Ấy?
+Dialogue: 12,0:11:28.60,0:11:30.07,Main,,0,0,0,,Bình thường tiết chế lắm mà.
+Dialogue: 12,0:11:30.52,0:11:31.72,Main,,0,0,0,,Nay cậu có chút khang khác.
+Dialogue: 12,0:11:31.72,0:11:33.96,Main,,0,0,0,,Tôi phải uống vì tim đập kiểu này\N khó chịu quá.
+Dialogue: 12,0:11:33.96,0:11:34.80,Main,,0,0,0,,Trình Tiểu Thời.
+Dialogue: 12,0:11:34.80,0:11:36.01,Main,,0,0,0,,Đợi chút nữa uống say,
+Dialogue: 12,0:11:36.58,0:11:38.64,Main,,0,0,0,,thì khi quay về nhớ là \Nxuống lầu ngủ ở sofa đấy.
+Dialogue: 12,0:11:38.64,0:11:39.66,Main,,0,0,0,,Được rồi.
+Dialogue: 12,0:11:39.66,0:11:41.02,Main,,0,0,0,,Chả trách Từ San San lại uống say.
+Dialogue: 12,0:11:41.02,0:11:42.52,Main,,0,0,0,,Này, đủ rồi đấy.
+Dialogue: 12,0:11:43.89,0:11:46.24,Main,,0,0,0,,Tôi thấy cậu bình thường\N không có chuyện gì buồn phiền.
+Dialogue: 12,0:11:46.24,0:11:47.60,Main,,0,0,0,,Không cần mượn rượu giải sầu đâu.
+Dialogue: 12,0:11:47.60,0:11:49.18,Main,,0,0,0,,Cái đồ mọt sách nhà cậu.
+Dialogue: 12,0:11:49.18,0:11:50.97,Main,,0,0,0,,Vì sao lúc nào cũng lý tính thế hả.
+Dialogue: 12,0:11:50.97,0:11:53.61,Main,,0,0,0,,Có lúc cảm tính \Nmột lần không được sao?
+Dialogue: 12,0:11:54.85,0:11:57.95,Main,,0,0,0,,Cậu có biết... vì sao năm đó tôi lại\N chọn thi nghiên cứu sinh không?
+Dialogue: 12,0:12:00.52,0:12:01.52,Main,,0,0,0,,Không biết.
+Dialogue: 12,0:12:03.39,0:12:05.65,Main,,0,0,0,,Bởi vì 4 năm đại học tôi đã quen rồi.
+Dialogue: 12,0:12:06.89,0:12:08.84,Main,,0,0,0,,Quen có người ăn cơm cùng.
+Dialogue: 12,0:12:08.84,0:12:11.86,Main,,0,0,0,,Quen có người lên lớp cùng, \Nchơi game.
+Dialogue: 12,0:12:12.93,0:12:16.62,Main,,0,0,0,,Quen có người cùng tản bộ vu vơ \Nở trong vườn trường.
+Dialogue: 12,0:12:16.62,0:12:19.72,Main,,0,0,0,,Nói những lời vô tư nhưng lại thấu lòng.
+Dialogue: 12,0:12:21.43,0:12:22.56,Main,,0,0,0,,Vì vậy...
+Dialogue: 12,0:12:22.56,0:12:24.57,Main,,0,0,0,,thi nghiên cứu sinh là biện pháp trốn tránh.
+Dialogue: 12,0:12:25.06,0:12:26.25,Main,,0,0,0,,Nhưng bây giờ...
+Dialogue: 12,0:12:26.56,0:12:28.31,Main,,0,0,0,,cuối cùng vẫn là chọn rời đi.
+Dialogue: 12,0:12:28.31,0:12:29.23,Main,,0,0,0,,Rời đi?
+Dialogue: 12,0:12:29.23,0:12:31.10,Main,,0,0,0,,Chính là vì chị quá để ý,
+Dialogue: 12,0:12:31.10,0:12:32.44,Main,,0,0,0,,nên mới không dám hỏi.
+Dialogue: 12,0:12:33.43,0:12:36.35,Main,,0,0,0,,Sợ đáp án thật sự \Nlại không giống như mình nghĩ.
+Dialogue: 12,0:12:38.22,0:12:40.31,Main,,0,0,0,,Này Từ San San,\N đến bài chọn giúp cậu rồi đấy.
+Dialogue: 12,0:12:40.59,0:12:41.75,Main,,0,0,0,,Này, mic này.
+Dialogue: 12,0:13:01.28,0:13:03.02,Main,,0,0,0,,Tuyệt vời.
+Dialogue: 12,0:13:05.51,0:13:06.43,Main,,0,0,0,,Được đấy chứ.
+Dialogue: 12,0:13:23.93,0:13:26.52,Main,,0,0,0,,Oài! Lúc cần lên thì không lên! \NTính chơi đểu tôi à?!
+Dialogue: 12,0:13:27.16,0:13:28.97,Main,,0,0,0,,Này, có biết nghĩ không thế?!
+Dialogue: 12,0:13:28.97,0:13:31.10,Main,,0,0,0,,Lần nào lập nhóm,\Nchưa đủ người đã xông lên rồi.
+Dialogue: 12,0:13:31.10,0:13:34.29,Main,,0,0,0,,Là tôi ngắm chuẩn thời cơ rồi,\N do mấy người chậm quá ấy.
+Dialogue: 12,0:13:35.10,0:13:37.01,Main,,0,0,0,,Ba người có thể hứng khởi lên tí không?
+Dialogue: 12,0:13:37.01,0:13:39.42,Main,,0,0,0,,Trông như ba nén hương ấy,\Nchả có sức sống gì cả.
+Dialogue: 12,0:13:41.14,0:13:42.56,Main,,0,0,0,,Ấy, tôi xem nào.
+Dialogue: 12,0:13:42.56,0:13:44.71,Main,,0,0,0,,Có chụp rõ khuôn mặt \Nanh tuấn này của tôi không thế?
+Dialogue: 12,0:13:44.71,0:13:45.55,Main,,0,0,0,,Biến đi.
+Dialogue: 12,0:13:45.55,0:13:47.13,Main,,0,0,0,,Nhớ thường xuyên qua thăm nhé.
+Dialogue: 12,0:13:47.13,0:13:49.82,Main,,0,0,0,,Khó khăn lắm mới qua được vòng biện luận,\N đừng có trù ẻo thế chứ.
+Dialogue: 12,0:13:50.14,0:13:51.05,Main,,0,0,0,,Đổng Dị!
+Dialogue: 12,0:13:51.05,0:13:53.31,Main,,0,0,0,,Từ tiên cô nhà chúng tôi, \Ngiao cho cậu chăm sóc đấy.
+Dialogue: 12,0:14:03.93,0:14:04.81,Main,,0,0,0,,Cậu nói xem...
+Dialogue: 12,0:14:04.81,0:14:07.06,Main,,0,0,0,,hai chúng ta không hẹn\Nmà cùng chọn thi nghiên cứu sinh.
+Dialogue: 12,0:14:07.06,0:14:08.18,Main,,0,0,0,,Có phải trùng hợp lắm không?
+Dialogue: 12,0:14:08.18,0:14:08.83,Main,,0,0,0,,Trùng hợp?
+Dialogue: 12,0:14:09.35,0:14:10.72,Main,,0,0,0,,Thế cơ á?
+Dialogue: 12,0:14:10.72,0:14:12.79,Main,,0,0,0,,Có nhiều người khác\Nở lại học nghiên cứu sinh mà.
+Dialogue: 12,0:14:13.08,0:14:14.20,Main,,0,0,0,,Nhàm chán.
+Dialogue: 12,0:14:16.29,0:14:18.57,Main,,0,0,0,,Tiết học sáng mai vẫn là\Nphòng số 201 tòa nhà Dật Phu.
+Dialogue: 12,0:14:18.93,0:14:20.34,Main,,0,0,0,,Đừng quên quy tắc cũ đấy.
+Dialogue: 12,0:14:20.64,0:14:21.52,Main,,0,0,0,,Biết rồi.
+Dialogue: 12,0:14:21.52,0:14:24.77,Main,,0,0,0,,Hai trứng chiên, ít cay, \Nmột lạp xưởng, không rau thơm.
+Dialogue: 12,0:14:28.85,0:14:30.15,Main,,0,0,0,,Nếu có thể...
+Dialogue: 12,0:14:30.60,0:14:32.95,Main,,0,0,0,,tôi mãi mãi không muốn nói tạm biệt.
+Dialogue: 12,0:14:34.39,0:14:35.42,Main,,0,0,0,,Hay thật đấy.
+Dialogue: 12,0:14:36.97,0:14:38.61,Main,,0,0,0,,Khác gì ngôi sao đâu.
+Dialogue: 12,0:14:39.73,0:14:40.73,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:14:40.98,0:14:43.03,Main,,0,0,0,,6 năm làm anh em coi như bỏ phí rồi.
+Dialogue: 12,0:14:43.03,0:14:44.45,Main,,0,0,0,,Không ngờ cậu giấu kĩ thế.
+Dialogue: 12,0:14:44.45,0:14:45.46,Main,,0,0,0,,Hát hay lắm.
+Dialogue: 12,0:14:45.46,0:14:46.88,Main,,0,0,0,,Nhịp hơi rất ổn định.
+Dialogue: 12,0:14:46.88,0:14:49.07,Main,,0,0,0,,Hễ anh ta nói cái là\N tim liền đập không ngừng.
+Dialogue: 12,0:14:49.52,0:14:50.83,Main,,0,0,0,,Xem ra chỉ có thể...
+Dialogue: 12,0:14:51.02,0:14:52.46,Main,,0,0,0,,Uống tiếp nào!
+Dialogue: 12,0:14:52.46,0:14:55.28,Main,,0,0,0,,Anh chị em! Hát lên nào!
+Dialogue: 12,0:15:00.84,0:15:01.70,Main,,0,0,0,,Đi đây!
+Dialogue: 12,0:15:01.70,0:15:02.81,Main,,0,0,0,,- Tạm biệt!\N- Lần sau tụ tập tiếp!
+Dialogue: 12,0:15:02.81,0:15:04.02,Main,,0,0,0,,Phát tài phát lộc nhá!
+Dialogue: 12,0:15:04.02,0:15:05.77,Main,,0,0,0,,Rảnh thì gọi cho nhau nghen!
+Dialogue: 12,0:15:06.39,0:15:07.80,Main,,0,0,0,,Tất nhiên rồi.
+Dialogue: 12,0:15:07.80,0:15:09.10,Main,,0,0,0,,Hẹn gặp lại nha, mọi người!
+Dialogue: 12,0:15:09.27,0:15:10.72,Main,,0,1200,0,,Này Đổng Dị, \Nthường xuyên liên lạc nhé.
+Dialogue: 12,0:15:09.27,0:15:10.72,Main,,900,0,0,,Từ San San, cậu chậm thôi.
+Dialogue: 12,0:15:10.72,0:15:11.47,Main,,0,0,0,,Tạm biệt.
+Dialogue: 12,0:15:11.47,0:15:12.69,Main,,0,0,0,,À được.
+Dialogue: 12,0:15:12.69,0:15:13.73,Main,,0,0,0,,Đừng đi mà!
+Dialogue: 12,0:15:14.14,0:15:15.40,Main,,0,0,0,,- Không ai được đi hết.\N- Giải tán rồi.
+Dialogue: 12,0:15:15.72,0:15:16.77,Main,,0,0,0,,Giải tán hết rồi.
+Dialogue: 12,0:15:16.77,0:15:18.40,Main,,0,0,0,,Vậy cậu với mình làm tăng nữa.
+Dialogue: 12,0:15:19.02,0:15:20.20,Main,,0,0,0,,Chỗ này mạng kém quá.
+Dialogue: 12,0:15:20.20,0:15:21.97,Main,,0,0,0,,Không đặt xe được.
+Dialogue: 12,0:15:21.97,0:15:23.32,Main,,0,0,0,,Để qua bên kia xem sao.
+Dialogue: 12,0:15:26.02,0:15:27.57,Main,,0,0,0,,Họ đi đâu cũng được...
+Dialogue: 12,0:15:27.57,0:15:28.56,Main,,0,0,0,,nhưng cậu...
+Dialogue: 12,0:15:28.56,0:15:29.66,Main,,0,0,0,,không đi đâu cả.
+Dialogue: 12,0:15:30.10,0:15:31.64,Main,,0,0,0,,Biểu hiện cho đến giờ không tồi,
+Dialogue: 12,0:15:31.64,0:15:33.41,Main,,0,0,0,,kiên trì thêm một chút\N là hoàn thành ủy thác.
+Dialogue: 12,0:15:40.14,0:15:41.19,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:15:41.60,0:15:42.55,Main,,0,0,0,,Tôi có chuyện này...
+Dialogue: 12,0:15:42.55,0:15:43.84,Main,,0,0,0,,muốn nói với cậu.
+Dialogue: 12,0:15:50.10,0:15:51.72,Main,,0,0,0,,Hắn cứ lén la lén lút.
+Dialogue: 12,0:15:51.72,0:15:53.52,Main,,0,0,0,,Hình như thấy ở đâu rồi thì phải.
+Dialogue: 12,0:15:55.31,0:15:57.27,Main,,0,0,0,,Là tên giết người hàng loạt trong ảnh.
+Dialogue: 12,0:16:05.68,0:16:06.36,Main,,0,0,0,,Trình Tiểu Thời!
+Dialogue: 12,0:16:06.62,0:16:07.23,Main,,0,0,0,,Này.
+Dialogue: 12,0:16:16.97,0:16:17.98,Main,,0,0,0,,Không thể để hắn thoát.
+Dialogue: 12,0:16:18.46,0:16:20.19,Main,,0,0,0,,Từ San San, tỉnh rượu rồi à?
+Dialogue: 12,0:16:20.19,0:16:22.21,Main,,0,0,0,,Đáng ghét! Đầu vẫn quay mòng mòng.
+Dialogue: 12,0:16:22.21,0:16:22.93,Main,,0,0,0,,Này!
+Dialogue: 12,0:16:22.93,0:16:24.82,Main,,0,0,0,,Chạy qua bên đó làm gì thế?
+Dialogue: 12,0:16:42.56,0:16:43.47,Main,,0,0,0,,Trình Tiểu Thời.
+Dialogue: 12,0:16:43.47,0:16:44.40,Main,,0,0,0,,Nổi điên à?!
+Dialogue: 12,0:16:44.64,0:16:46.86,Main,,0,0,0,,Tôi vừa nhìn thấy nghi phạm\Ntrong bức ảnh camera giám sát.
+Dialogue: 12,0:16:47.72,0:16:48.81,Main,,0,0,0,,Đừng ngu ngốc thế.
+Dialogue: 12,0:16:48.81,0:16:50.73,Main,,0,0,0,,Chỉ dựa vào mình cậu\Nkhông bắt được hắn đâu.
+Dialogue: 12,0:16:51.85,0:16:52.93,Main,,0,0,0,,Huống hồ...
+Dialogue: 12,0:16:52.93,0:16:55.20,Main,,0,0,0,,đối phương lần này còn rắc rối hơn\Nbọn buôn người đấy.
+Dialogue: 12,0:16:55.93,0:16:57.70,Main,,0,0,0,,Nhưng tôi có thể chụp được\N dung mạo hắn.
+Dialogue: 12,0:16:57.70,0:16:59.12,Main,,0,0,0,,Ít nhất có thêm được manh mối.
+Dialogue: 12,0:16:59.12,0:17:00.61,Main,,0,0,0,,Giúp cảnh sát sớm phá án.
+Dialogue: 12,0:17:05.65,0:17:06.62,Main,,0,0,0,,Chết rồi.
+Dialogue: 12,0:17:06.62,0:17:07.59,Main,,0,0,0,,Điện thoại để đâu rồi?
+Dialogue: 12,0:17:09.34,0:17:10.09,Main,,0,0,0,,Cẩn thận đằng sau!
+Dialogue: 12,0:17:10.92,0:17:11.34,Main,,0,0,0,,Đợi đã!
+Dialogue: 12,0:17:12.14,0:17:13.32,Main,,0,0,0,,Nếu cậu đột ngột quay người,
+Dialogue: 12,0:17:13.68,0:17:15.10,Main,,0,0,0,,Rất có thể sẽ kích động hung thủ.
+Dialogue: 12,0:17:15.77,0:17:17.85,Main,,0,0,0,,Ngược lại sẽ khiến hắn tấn công mạnh hơn.
+Dialogue: 12,0:17:18.39,0:17:19.73,Main,,0,0,0,,Vậy tôi phải làm thế nào?
+Dialogue: 12,0:17:20.22,0:17:21.59,Main,,0,0,0,,Cố gắng tạo ra một...
+Dialogue: 12,0:17:21.59,0:17:23.31,Main,,0,0,0,,tình cảnh khiến hắn không thể ra tay.
+Dialogue: 12,0:17:23.31,0:17:24.68,Main,,0,0,0,,Sau đó chờ thời cơ.
+Dialogue: 12,0:17:24.68,0:17:26.68,Main,,0,0,0,,Không cách nào ra tay?\N Vậy chỉ có thể...
+Dialogue: 12,0:17:26.68,0:17:27.47,Main,,0,0,0,,Ây dà~
+Dialogue: 12,0:17:27.47,0:17:29.34,Main,,0,0,0,,Uống say mắc tè quá.
+Dialogue: 12,0:17:29.78,0:17:32.81,Main,,0,0,0,,Nước bay thẳng xuống ba nghìn thước.
+Dialogue: 12,0:17:32.81,0:17:35.58,Main,,0,0,0,,{\fad(0,600)}Tưởng dải Ngân Hà (tuột khỏi mây)
+Dialogue: 12,0:17:35.58,0:17:36.60,Main,,0,0,0,,Chết mịa!
+Dialogue: 12,0:17:36.60,0:17:38.40,Main,,0,0,0,,Quên mất tôi đang là con gái.
+Dialogue: 12,0:17:38.79,0:17:40.48,Main,,0,0,0,,Còn không mau đổi cách khác đi.
+Dialogue: 12,0:17:51.93,0:17:54.16,Main,,0,0,0,,Đến thế này rồi \Ncó định tha cho tôi không hả?
+Dialogue: 12,0:17:54.16,0:17:55.80,Main,,0,0,0,,Đúng là biến thái mà.
+Dialogue: 12,0:17:59.54,0:18:01.02,Main,,0,0,0,,Xông ra liều với hắn thôi.
+Dialogue: 12,0:18:01.52,0:18:02.31,Main,,0,0,0,,Không hay rồi.
+Dialogue: 12,0:18:02.31,0:18:03.17,Main,,0,0,0,,Đến thật rồi.
+Dialogue: 12,0:18:15.85,0:18:17.03,Main,,0,0,0,,Nguy hiểm qua rồi.
+Dialogue: 12,0:18:18.56,0:18:19.45,Main,,0,0,0,,Cậu đi đâu thế?
+Dialogue: 12,0:18:21.51,0:18:21.96,Main,,0,0,0,,Đừng!
+Dialogue: 12,0:18:23.22,0:18:24.35,Main,,0,0,0,,Nhận lấy này!
+Dialogue: 12,0:18:26.18,0:18:27.29,Main,,0,0,0,,Là tôi.
+Dialogue: 12,0:18:27.51,0:18:29.51,Main,,0,0,0,,Cậu học võ phòng thân bao giờ thế?
+Dialogue: 12,0:18:29.51,0:18:30.64,Main,,0,0,0,,Đổng Dị?
+Dialogue: 12,0:18:30.64,0:18:32.05,Main,,0,0,0,,Thế còn cái tên \Nđội mũ bóng chày đâu?
+Dialogue: 12,0:18:37.94,0:18:40.56,Main,,0,0,0,,Chả phải là tên... "chưa cai sữa" đó sao?
+Dialogue: 12,0:18:48.64,0:18:51.79,Main,,0,0,0,,Rõ ràng là một nam sinh \Ntỏ tình bất thành xong tính giở trò,
+Dialogue: 12,0:18:51.79,0:18:54.65,Main,,0,0,0,,mà lại trở thành tin nóng hổi \Nphá được kỳ án đô thị?
+Dialogue: 12,0:18:55.35,0:18:58.06,Main,,0,0,0,,Đám truyền thông vô đạo đức này \Ncũng nên biết điểm dừng chứ!
+Dialogue: 12,0:18:58.31,0:19:01.29,Main,,0,0,0,,Đành rằng tùng tin mù giật tít \Nthì cũng thôi đi.
+Dialogue: 12,0:19:01.70,0:19:04.14,Main,,0,0,0,,Đằng này còn để lộ cả ảnh người ta ra.
+Dialogue: 12,0:19:03.62,0:19:05.67,Main,,0,0,0,,{\an8}Bà chủ, mời vào!
+Dialogue: 12,0:19:04.14,0:19:05.67,Main,,0,0,0,,Hoàn thành ủy thác thế nào rồi?
+Dialogue: 12,0:19:06.52,0:19:07.97,Main,,0,0,0,,Vì bắt tên trộm vặt mà phân tâm rồi.
+Dialogue: 12,0:19:07.97,0:19:09.10,Main,,0,0,0,,Em ghi lại hết rồi.
+Dialogue: 12,0:19:09.42,0:19:11.57,Main,,0,0,0,,Quả nhiên là Lục Quang đáng tin.
+Dialogue: 12,0:19:12.05,0:19:12.68,Main,,0,0,0,,Đúng rồi.
+Dialogue: 12,0:19:12.68,0:19:14.39,Main,,0,0,0,,Suýt thì quên\Ncậu có góc nhìn bao quát.
+Dialogue: 12,0:19:14.39,0:19:16.43,Main,,0,0,0,,Này, rốt cuộc Đổng Dị nói gì thế?
+Dialogue: 12,0:19:17.39,0:19:20.18,Main,,0,0,0,,Tôi đã chuyển lời \Ncho chị San San xong cả rồi.
+Dialogue: 12,0:19:20.54,0:19:21.44,Main,,0,0,0,,Từ San San.
+Dialogue: 12,0:19:22.14,0:19:23.33,Main,,0,0,0,,Tôi có chuyện này...
+Dialogue: 12,0:19:23.33,0:19:24.52,Main,,0,0,0,,muốn nói với cậu.
+Dialogue: 12,0:19:24.97,0:19:28.32,Main,,0,0,0,,Lúc sắp tốt nghiệp,\N người nhà giục tôi trở về.
+Dialogue: 12,0:19:28.68,0:19:30.74,Main,,0,0,0,,Bố tôi đã sắp xếp ổn thỏa hết rồi.
+Dialogue: 12,0:19:32.31,0:19:34.10,Main,,0,0,0,,Vì vậy mà từ lâu tôi đã biết...
+Dialogue: 12,0:19:34.10,0:19:36.94,Main,,0,0,0,,sau khi tốt nghiệp \Ntôi không thể ở lại thành phố này nữa.
+Dialogue: 12,0:19:36.06,0:19:36.94,Main,,1400,0,0,,Đổng Dị!
+Dialogue: 12,0:19:38.72,0:19:40.10,Main,,0,0,0,,Trước đây \Ntôi không dám tỏ tình.
+Dialogue: 12,0:19:39.63,0:19:40.66,Main,,1300,0,0,,Buồn chuyện gì thế?
+Dialogue: 12,0:19:41.11,0:19:41.98,Main,,0,0,0,,Là vì...
+Dialogue: 12,0:19:42.81,0:19:45.44,Main,,0,0,0,,tôi sợ làm tổn thương em,\Nngười đã ở bên tôi 6 năm.
+Dialogue: 12,0:19:46.85,0:19:47.70,Main,,0,0,0,,À...
+Dialogue: 12,0:19:47.70,0:19:48.93,Main,,0,0,0,,đang lo vụ bảo vệ tốt nghiệp.
+Dialogue: 12,0:19:49.90,0:19:51.15,Main,,0,0,0,,Có gì to tát đâu.
+Dialogue: 12,0:19:51.60,0:19:53.92,Main,,0,0,0,,Buổi tối mình đã hẹn Kiều Linh\Nđi xem phim thư giãn rồi.
+Dialogue: 12,0:19:53.92,0:19:54.78,Main,,0,0,0,,Cậu đi không?
+Dialogue: 12,0:19:55.02,0:19:55.77,Main,,0,0,0,,Bỏ đi.
+Dialogue: 12,0:19:56.00,0:19:57.21,Main,,0,0,0,,Vẫn còn chút việc chưa xong.
+Dialogue: 12,0:19:57.21,0:19:58.39,Main,,0,0,0,,Không đi thì thôi.
+Dialogue: 12,0:19:58.70,0:20:00.02,Main,,0,0,0,,Vậy phạt cậu làm bài tập hộ mình.
+Dialogue: 12,0:20:00.02,0:20:02.39,Main,,0,0,0,,Buổi tối về,\N mình đứng dưới ký túc chỗ cậu lấy đấy.
+Dialogue: 12,0:20:04.31,0:20:05.31,Main,,0,0,0,,Mấy giờ thế?
+Dialogue: 12,0:20:05.31,0:20:06.60,Main,,0,0,0,,Nếu cửa ký túc khóa rồi,
+Dialogue: 12,0:20:06.60,0:20:08.27,Main,,0,0,0,,thì để tôi quăng xuống cho.
+Dialogue: 12,0:20:08.52,0:20:10.76,Main,,0,0,0,,Hai người cả ngày \Ncứ như cặp tình nhân.
+Dialogue: 12,0:20:10.76,0:20:12.65,Main,,0,0,0,,Sao không ba mặt một lời đi.
+Dialogue: 12,0:20:12.89,0:20:14.40,Main,,0,0,0,,Mãi cho đến hôm nay,
+Dialogue: 12,0:20:14.77,0:20:16.90,Main,,0,0,0,,không thể không tốt nghiệp\Ntôi mới nghĩ thông.
+Dialogue: 12,0:20:17.47,0:20:18.90,Main,,0,0,0,,Bất kể tương lai khó khăn thế nào,
+Dialogue: 12,0:20:19.31,0:20:20.74,Main,,0,0,0,,tôi vẫn muốn ở lại.
+Dialogue: 12,0:20:21.35,0:20:22.32,Main,,0,0,0,,Bởi vì...
+Dialogue: 12,0:20:22.77,0:20:23.86,Main,,0,0,0,,rời xa em...
+Dialogue: 12,0:20:24.38,0:20:26.14,Main,,0,0,0,,là đau khổ tột cùng.
+Dialogue: 12,0:20:26.43,0:20:29.62,Main,,0,0,0,,10 giờ sáng, anh ấy có buổi phỏng vấn\Nquan trọng ở tòa Union Building.
+Dialogue: 12,0:20:29.62,0:20:31.50,Main,,0,0,0,,Hi vọng chị có thể đi cùng.
+Dialogue: 12,0:20:31.70,0:20:34.19,Main,,0,0,0,,Đây là muốn San San thể hiện ra mà.
+Dialogue: 12,0:20:34.85,0:20:35.60,Main,,0,0,0,,Để hỏi xem sao.
+Dialogue: 12,0:20:35.60,0:20:36.63,Main,,0,0,0,,Xem sáng nay có đi không.
+Dialogue: 12,0:20:45.97,0:20:48.47,Main,,0,0,0,,Hôm nay có đi phỏng vấn\N cùng anh ấy không?
+Dialogue: 12,0:20:49.51,0:20:50.86,Main,,0,0,0,,Sao trả lời nhanh vậy.
+Dialogue: 12,0:20:50.86,0:20:53.11,Main,,0,0,0,,Trông có vẻ... \Nnước chảy thành sông rồi.
+Dialogue: 12,0:20:55.14,0:20:56.90,Main,,0,0,0,,Ấy! Đổng Dị!
+Dialogue: 12,0:20:58.68,0:21:00.30,Main,,0,0,0,,Cậu cũng tới phỏng vấn à?
+Dialogue: 12,0:21:00.54,0:21:01.66,Main,,0,0,0,,Sắp 10 giờ rồi.
+Dialogue: 12,0:21:01.66,0:21:03.02,Main,,0,0,0,,Còn đứng ngây ra đó làm gì?!
+Dialogue: 12,0:21:03.43,0:21:04.07,Main,,0,0,0,,À...
+Dialogue: 12,0:21:04.43,0:21:05.78,Main,,0,0,0,,Chút nữa tôi lên.
+Dialogue: 12,0:21:05.78,0:21:07.11,Main,,0,0,0,,Vậy mình lên trước đây.
+Dialogue: 12,0:21:16.35,0:21:18.06,Main,,0,0,0,,Lẽ nào lời mình nói hôm đó...
+Dialogue: 12,0:21:18.06,0:21:19.95,Main,,0,0,0,,vẫn còn làm cô ấy giận sao?
+Dialogue: 12,0:21:26.85,0:21:29.39,Main,,0,0,0,,San San... thế này là có ý gì?
+Dialogue: 12,0:21:34.60,0:21:35.34,Main,,0,0,0,,Kiều Linh!
+Dialogue: 12,0:21:35.34,0:21:36.53,Main,,0,0,0,,Gọi cho Từ San San xem sao.
+Dialogue: 12,0:21:37.53,0:21:38.39,Main,,0,0,0,,Ờ.
+Dialogue: 12,0:21:50.47,0:21:51.60,Main,,0,0,0,,Từ San San!
+Dialogue: 12,0:21:51.60,0:21:53.63,Main,,0,0,0,,Tin nhắn trong nhóm... là chị gửi à?
+Dialogue: 12,0:21:59.76,0:22:01.38,Main,,0,0,0,,Tôi sẽ...
+Dialogue: 12,0:22:02.18,0:22:04.89,Main,,0,0,0,,đến như đã hứa.
 Dialogue: 2,0:01:51.97,0:01:54.39,Signs,quotes,0,0,0,,{\fad(50,0)\fs65\fnUVF You Make Me Smile\blur1\i1\fscx80\fscy80\org(850,400)\frx-3\t(0,480,0.5,\frx0)\fry0\pos(1355.2,146.8)}Một bức ảnh đẹp giống như một con chó săn giỏi, dốt nhưng hùng hồn
 Dialogue: 1,0:01:51.97,0:01:54.39,Signs,quotes,0,0,0,,{\fad(50,0)\fs65\fnUVF You Make Me Smile\blur8\i1\fscx80\fscy80\org(850,400)\frx-3\c&H000000&\t(0,480,0.5,\frx0)\fry0\pos(1355.2,146.8)}Một bức ảnh đẹp giống như một con chó săn giỏi, dốt nhưng hùng hồn
 Dialogue: 1,0:01:51.97,0:01:54.39,Signs,quotes,0,0,0,,{\fad(50,0)\fs65\fnUVF You Make Me Smile\blur8\i1\fscx80\fscy80\org(850,400)\frx-3\c&H000000&\t(0,480,0.5,\frx0)\fry0\pos(1355.2,146.8)}Một bức ảnh đẹp giống như một con chó săn giỏi, dốt nhưng hùng hồn
-Dialogue: 0,0:12:51.75,0:12:55.42,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}There is still too much to say
-Dialogue: 1,0:12:51.75,0:12:55.42,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}There is still too much to say
-Dialogue: 0,0:12:55.55,0:12:58.92,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}But the wind is telling us to go
-Dialogue: 1,0:12:55.55,0:12:58.92,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}But the wind is telling us to go
-Dialogue: 0,0:12:59.43,0:13:02.51,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Leave the laughter, the tears
-Dialogue: 1,0:12:59.43,0:13:02.51,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Leave the laughter, the tears
-Dialogue: 0,0:13:02.64,0:13:06.18,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}And stay with me in this summer
-Dialogue: 1,0:13:02.64,0:13:06.18,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}And stay with me in this summer
-Dialogue: 0,0:13:06.93,0:13:10.06,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Thoughts about the future
-Dialogue: 1,0:13:06.93,0:13:10.06,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Thoughts about the future
-Dialogue: 0,0:13:10.35,0:13:14.02,Insert Song 08,,0,0,0,,{\blur0.5\c&H9D9D9D&\pos(1665.6,62.4)}But there's too many questions without answers
-Dialogue: 1,0:13:10.35,0:13:14.02,Insert Song 08,,0,0,0,,{\bord0\blur0.5\shad1.3\4a&HFF&\pos(1665.6,62.4)}But there's too many questions without answers
-Dialogue: 0,0:13:14.15,0:13:19.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}About money and ideals
-Dialogue: 1,0:13:14.15,0:13:19.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}About money and ideals
-Dialogue: 0,0:13:14.15,0:13:19.53,Insert Song 08,,0,0,0,,{\pos(1624.4,134.8)\blur0.5\c&H9D9D9D&}The ordinary and the great
-Dialogue: 1,0:13:14.15,0:13:19.53,Insert Song 08,,0,0,0,,{\pos(1624.4,134.8)\bord0\blur0.5\shad1.3\4a&HFF&}The ordinary and the great
-Dialogue: 0,0:13:22.16,0:13:25.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}That's it, let's go
-Dialogue: 1,0:13:22.16,0:13:25.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}That's it, let's go
-Dialogue: 0,0:13:25.66,0:13:31.46,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Say goodbye to someone
-Dialogue: 1,0:13:25.66,0:13:31.46,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Say goodbye to someone
-Dialogue: 0,0:13:25.66,0:13:31.46,Insert Song 08,,0,0,0,,{\pos(1704,123.6)\blur0.5\c&H9D9D9D&}who can't sit still
-Dialogue: 1,0:13:25.66,0:13:31.46,Insert Song 08,,0,0,0,,{\pos(1704,123.6)\bord0\blur0.5\shad1.3\4a&HFF&}who can't sit still
-Dialogue: 0,0:13:31.58,0:13:35.38,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Your singing on the far road
-Dialogue: 1,0:13:31.58,0:13:35.38,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Your singing on the far road
-Dialogue: 0,0:13:35.50,0:13:39.13,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}It softly echoes
-Dialogue: 1,0:13:35.50,0:13:39.13,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}It softly echoes
-Dialogue: 0,0:13:43.09,0:13:45.55,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Time will answer growth
-Dialogue: 1,0:13:43.09,0:13:45.55,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Time will answer growth
-Dialogue: 0,0:13:45.80,0:13:50.14,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}And growth will answer dreams
-Dialogue: 1,0:13:45.80,0:13:50.14,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}And growth will answer dreams
-Dialogue: 0,0:13:50.43,0:13:53.31,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Our dreams will answer life
-Dialogue: 1,0:13:50.43,0:13:53.31,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Our dreams will answer life
-Dialogue: 0,0:13:53.98,0:13:57.73,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}And life will answer you and me
-Dialogue: 1,0:13:53.98,0:13:57.73,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}And life will answer you and me
-Dialogue: 0,0:13:57.86,0:14:00.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Oceans will answer rivers
-Dialogue: 1,0:13:57.86,0:14:00.53,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Oceans will answer rivers
-Dialogue: 0,0:14:00.65,0:14:05.41,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Rivers will answer streams
-Dialogue: 1,0:14:00.65,0:14:05.41,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Rivers will answer streams
-Dialogue: 0,0:14:05.53,0:14:08.66,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}Streams will answer tides
-Dialogue: 1,0:14:05.53,0:14:08.66,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}Streams will answer tides
-Dialogue: 0,0:14:08.79,0:14:12.37,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}So let's jump Xuống Biển of people
-Dialogue: 1,0:14:08.79,0:14:12.37,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}So let's jump Xuống Biển of people
-Dialogue: 0,0:14:12.50,0:14:16.29,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\blur0.5\c&H9D9D9D&}and make ourselves a surging wave
-Dialogue: 1,0:14:12.50,0:14:16.29,Insert Song 08,,0,0,0,,{\pos(1704,62.4)\bord0\blur0.5\shad1.3\4a&HFF&}and make ourselves a surging wave
 Dialogue: 0,0:01:48.04,0:01:48.08,Mask,,0,0,0,,{=12}{\an5\pos(1225.14,419.31)\1c&HD8D4D6&\p1}m 0 0 b 1.13 1.36 1.73 2.59 0 4.36 0 2.6 0 1.23 0 0
 Dialogue: 0,0:01:48.08,0:01:48.12,Mask,,0,0,0,,{=12}{\an5\pos(1226.48,419.98)\fscx100.22\fscy100.22\1c&HD8D4D6&\p1}m 0 0 b 1.13 1.36 1.73 2.59 0 4.36 0 2.6 0 1.23 0 0
 Dialogue: 0,0:01:48.12,0:01:48.17,Mask,,0,0,0,,{=12}{\an5\pos(1227.82,420.62)\fscx100.49\fscy100.49\1c&HD8D4D6&\p1}m 0 0 b 1.13 1.36 1.73 2.59 0 4.36 0 2.6 0 1.23 0 0
@@ -2555,7 +2511,7 @@ Dialogue: 0,0:18:45.64,0:18:45.68,Mask,,0,0,0,,{=34}{\pos(148.84,-47.32)\fscx113
 Dialogue: 0,0:18:45.68,0:18:45.72,Mask,,0,0,0,,{=34}{\pos(145.93,-29.33)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Giải mã một vụ bí ẩn
 Dialogue: 0,0:18:45.72,0:18:45.77,Mask,,0,0,0,,{=34}{\pos(142.77,-9.93)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Giải mã một vụ bí ẩn
 Dialogue: 0,0:18:45.77,0:18:45.81,Mask,,0,0,0,,{=35}{\pos(160.56,-58.18)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Nữ sinh đại học một mình
-Dialogue: 0,0:18:45.77,0:18:45.81,Mask,,0,0,0,,{=34}{\pos(139.41,10.68)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Giải mã một vụ bí ẩn 
+Dialogue: 0,0:18:45.77,0:18:45.81,Mask,,0,0,0,,{=34}{\pos(139.41,10.68)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Giải mã một vụ bí ẩn
 Dialogue: 0,0:18:45.81,0:18:45.85,Mask,,0,0,0,,{=35}{\pos(157.04,-36.51)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Nữ sinh đại học một mình
 Dialogue: 0,0:18:45.81,0:18:45.85,Mask,,0,0,0,,{=34}{\pos(135.89,32.35)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Giải mã một vụ bí ẩn
 Dialogue: 0,0:18:45.85,0:18:45.89,Mask,,0,0,0,,{=35}{\pos(153.37,-13.92)\fscx113\fscy89\frx3.08\fax-0.36\fnUTM Bebas\b1\shad0.01\c&H484043&\4c&H484043&\1a&H64&\blur1.4}Nữ sinh đại học một mình

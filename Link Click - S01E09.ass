@@ -11,13 +11,13 @@ PlayResY: 800
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: raws/Link Click - S01E10 - (BD 1080p HEVC FLAC AAC) [09E795DC].mkv
-Video File: raws/Link Click - S01E10 - (BD 1080p HEVC FLAC AAC) [09E795DC].mkv
+Audio File: raws/Link Click - S01E09 - (BD 1080p HEVC FLAC AAC) [C1450B1F].mkv
+Video File: raws/Link Click - S01E09 - (BD 1080p HEVC FLAC AAC) [C1450B1F].mkv
 Video AR Value: 2.400000
 Video Zoom Percent: 0.812500
-Scroll Position: 205
-Active Line: 206
-Video Position: 564
+Scroll Position: 327
+Active Line: 359
+Video Position: 27131
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 12,0:04:47.55,0:04:48.43,Main,,0,0,0,,Kiều Linh, chị—
 Dialogue: 12,0:04:48.43,0:04:49.80,Main,,0,0,0,,Lục Quang có nhờ chị rồi.
 Dialogue: 12,0:04:49.80,0:04:52.08,Main,,0,0,0,,Vì không muốn cậu bị \Nmấy lời bịa đặt ảnh hưởng.
 Dialogue: 12,0:04:52.08,0:04:52.91,Main,,0,0,0,,Nên điện thoại...
-Dialogue: 12,0:04:52.91,0:04:54.02,Main,,0,0,0,,tôi sẽ giữ cho cậu.
+Dialogue: 12,0:04:52.91,0:04:54.02,Main,,0,0,0,,chị sẽ giữ cho cậu.
 Dialogue: 12,0:05:00.82,0:05:02.11,Main,,0,0,0,,Tôi lên lầu nghỉ chút.
 Dialogue: 12,0:05:02.62,0:05:03.98,Main,,0,0,0,,Lục Quang về thì gọi.
 Dialogue: 12,0:05:08.62,0:05:10.76,Main,,0,0,0,,Không phải trước đây bảo là \Nkhông giúp được sao?
@@ -172,7 +172,7 @@ Dialogue: 12,0:07:43.92,0:07:45.57,Main,,0,0,0,,để nhập vào ảnh thì...
 Dialogue: 12,0:07:46.67,0:07:48.05,Main,,0,0,0,,Thì sẽ mất liên lạc với tôi.
 Dialogue: 12,0:07:48.32,0:07:49.07,Main,,0,0,0,,Như vậy...
 Dialogue: 12,0:07:49.33,0:07:51.09,Main,,0,0,0,,những chuyện xảy ra trong bức ảnh...
-Dialogue: 12,0:07:51.09,0:07:52.38,Main,,0,0,0,,cậu sẽ biết gì cả.
+Dialogue: 12,0:07:51.09,0:07:52.38,Main,,0,0,0,,cậu sẽ không biết gì cả.
 Dialogue: 12,0:08:02.74,0:08:03.27,Main,,0,0,0,,Mình—
 Dialogue: 12,0:08:03.78,0:08:05.57,Main,,0,0,0,,Mình chui vô ảnh được luôn là sao?
 Dialogue: 12,0:08:06.45,0:08:08.90,Main,,0,0,0,,Cậu vẫn chỉ có 12 tiếng thôi.
@@ -195,7 +195,7 @@ Dialogue: 12,0:08:55.83,0:08:56.81,Main,,0,0,0,,Điện thoại...
 Dialogue: 12,0:08:58.77,0:09:00.15,Main,,0,0,0,,Lục Quang có nhờ chị rồi.
 Dialogue: 12,0:09:00.15,0:09:02.50,Main,,0,0,0,,Vì không muốn cậu bị \Nmấy lời bịa đặt ảnh hưởng.
 Dialogue: 12,0:09:02.50,0:09:03.24,Main,,0,0,0,,Nên điện thoại...
-Dialogue: 12,0:09:03.24,0:09:04.36,Main,,0,0,0,,tôi sẽ giữ cho cậu.
+Dialogue: 12,0:09:03.24,0:09:04.36,Main,,0,0,0,,chị sẽ giữ cho cậu.
 Dialogue: 12,0:09:07.12,0:09:08.74,Main,,0,0,0,,Sao lại đúng lúc này chứ!
 Dialogue: 12,0:09:23.95,0:09:24.77,Main,,0,0,0,,Ai vậy?
 Dialogue: 12,0:09:27.53,0:09:28.61,Main,,0,0,0,,Cảnh sát đây.
@@ -217,7 +217,7 @@ Dialogue: 12,0:10:04.37,0:10:05.77,Main,,0,0,0,,Toàn những lời vô căn c�
 Dialogue: 12,0:10:06.16,0:10:08.51,Main,,0,0,0,,Họ có cái nhìn thù hằn\N với công ty của chúng tôi.
 Dialogue: 12,0:10:08.51,0:10:10.59,Main,,0,0,0,,Đây chính là tâm lý báo thù.
 Dialogue: 12,0:10:13.12,0:10:14.20,Main,,0,0,0,,Xin lỗi anh.
-Dialogue: 12,0:10:14.20,0:10:15.54,Main,,0,0,0,,Còn phiền anh đưa em về nữa.
+Dialogue: 12,0:10:14.20,0:10:15.54,Main,,0,0,0,,Còn phiền anh đưa tôi về nữa.
 Dialogue: 12,0:10:15.54,0:10:17.32,Main,,0,0,0,,À, tiện đường mà.
 Dialogue: 12,0:10:18.22,0:10:21.14,Main,,0,0,0,,Hôm nay không biết sao, \Nmà gọi xe cũng không được.
 Dialogue: 12,0:10:21.32,0:10:21.97,Main,,0,0,0,,Đi thôi!
@@ -389,14 +389,14 @@ Dialogue: 12,0:18:17.91,0:18:19.91,Main,,0,0,0,,Trợ lý giám đốc tài chí
 Dialogue: 12,0:18:21.22,0:18:22.00,Main,,0,0,0,,Đúng vậy.
 Dialogue: 12,0:18:23.39,0:18:25.84,Main,,0,0,0,,Ngoài chuyện này ra \Ntôi còn có chuyện muốn nói với chị.
 Dialogue: 12,0:18:32.25,0:18:35.34,Main,,0,0,0,,Chị luôn cho rằng năm đó \Nkhông kịp thời phát hiện ra Đậu Đậu bị bắt đi,
-Dialogue: 12,0:18:36.03,0:18:37.44,Main,,0,0,0,,để rồi tự trách chính mình.
+Dialogue: 12,0:18:36.03,0:18:37.44,Main,,0,0,0,,để rồi tự trách mình.
 Dialogue: 12,0:18:38.53,0:18:39.99,Main,,0,0,0,,Thật ra chuyện đó...
 Dialogue: 12,0:18:40.67,0:18:42.27,Main,,0,0,0,,tôi cũng có trách nhiệm.
 Dialogue: 12,0:18:42.60,0:18:43.35,Main,,0,0,0,,Đi xem xem.
 Dialogue: 12,0:18:43.35,0:18:45.65,Main,,0,0,0,,Ừ, nhưng chả biết giờ có nhiều người\N xếp hàng không nữa.
 Dialogue: 12,0:18:48.15,0:18:48.90,Main,,0,0,0,,Trình Tiểu Thời?
 Dialogue: 12,0:18:48.90,0:18:50.97,Main,,0,0,0,,Chính bởi vì sự xuất hiện\Nđột ngột của tôi...
-Dialogue: 12,0:18:51.56,0:18:53.47,Main,,0,0,0,,làm cho chị mất tập trung.
+Dialogue: 12,0:18:51.56,0:18:53.47,Main,,0,0,0,,làm chị mất tập trung.
 Dialogue: 12,0:18:56.28,0:18:57.48,Main,,0,0,0,,Ý của cậu là...
 Dialogue: 12,0:18:57.95,0:18:59.37,Main,,0,0,0,,cậu có thể nhập vào trong ảnh?
 Dialogue: 12,0:19:00.08,0:19:00.97,Main,,0,0,0,,Đúng vậy.

@@ -15,9 +15,9 @@ Audio File: raws/Link Click - S01E11 - (BD 1080p HEVC FLAC AAC) [34A1ADE2].mkv
 Video File: raws/Link Click - S01E11 - (BD 1080p HEVC FLAC AAC) [34A1ADE2].mkv
 Video AR Value: 2.400000
 Video Zoom Percent: 0.875000
-Scroll Position: 1269
-Active Line: 1281
-Video Position: 37469
+Scroll Position: 438
+Active Line: 470
+Video Position: 38142
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,7 +179,7 @@ Dialogue: 0,0:09:08.09,0:09:09.43,Main,,0,0,0,,Bà thì hiểu gì chứ.
 Dialogue: 0,0:09:09.43,0:09:10.75,Main,,0,0,0,,Cái này gọi là "share".
 Dialogue: 0,0:09:11.05,0:09:14.04,Main,,0,0,0,,Chả phải bà cũng hay mặc\N mấy cái áo len thương hiệu...
 Dialogue: 0,0:09:14.04,0:09:15.79,Main,,0,0,0,,mà con gái mua cho \Nđể khoe mẽ đó sao.
-Dialogue: 0,0:09:15.79,0:09:17.83,Main,,0,0,0,,Soa mà giống nhau được?
+Dialogue: 0,0:09:15.79,0:09:17.83,Main,,0,0,0,,Sao mà giống nhau được?
 Dialogue: 0,0:09:18.05,0:09:21.12,Main,,0,0,0,,Tôi chỉ là khoe với\N hàng xóm láng giềng thôi.
 Dialogue: 0,0:09:24.92,0:09:28.13,Main,,0,0,0,,Tước sinh mạng một người... \Nsẽ hủy hoại hạnh phúc nhiều người khác.
 Dialogue: 0,0:09:29.12,0:09:31.38,Main,,0,0,0,,Những nạn nhân vô tội này đều vì mày...
@@ -443,7 +443,7 @@ Dialogue: 0,0:22:22.02,0:22:23.67,Main,,0,0,0,,Đây là chuyện nhà họ.
 Dialogue: 0,0:22:24.17,0:22:25.72,Main,,0,0,0,,Pháp luật cũng không quản được.
 Dialogue: 0,0:22:26.42,0:22:27.30,Main,,0,0,0,,Gần đây...
 Dialogue: 0,0:22:27.30,0:22:28.63,Main,,0,0,0,,cô tăng ca cũng vất vả rồi.
-Dialogue: 0,0:22:29.29,0:22:31.43,Main,,0,0,0,,Đây là tiền thưởng thưởng trước cho cô.
+Dialogue: 0,0:22:29.29,0:22:31.43,Main,,0,0,0,,Đây là tiền thưởng trước cho cô.
 Dialogue: 0,0:22:32.47,0:22:34.26,Main,,0,0,0,,Cô cũng nên tiết kiệm chút tiền.
 Dialogue: 0,0:22:34.79,0:22:36.05,Main,,0,0,0,,Mua một căn nhà tại thành phố.
 Dialogue: 0,0:22:36.58,0:22:38.34,Main,,0,0,0,,Rồi sớm đón người nhà lên ở.
@@ -486,7 +486,7 @@ Dialogue: 0,0:24:39.82,0:24:41.67,Main,,0,0,0,,con sẽ không sao đâu.
 Dialogue: 0,0:24:42.62,0:24:45.05,Main,,0,0,0,,Có người đã dùng sinh mạng\Nđể nói với tôi rằng...
 Dialogue: 0,0:24:45.64,0:24:46.84,Main,,0,0,0,,thế nào là cha mẹ.
 Dialogue: 0,0:24:47.24,0:24:49.71,Main,,0,0,0,,Chỉ cần tìm kiếm... luôn tìm kiếm...
-Dialogue: 0,0:24:49.93,0:24:51.89,Main,,0,0,0,,bất kể là 10 năm... 20 năm... 20 năm.
+Dialogue: 0,0:24:49.93,0:24:51.89,Main,,0,0,0,,bất kể là 10 năm... 20 năm...
 Dialogue: 0,0:24:51.89,0:24:53.01,Main,,0,0,0,,hay còn lâu hơn nữa...
 Dialogue: 0,0:24:53.83,0:24:54.88,Main,,0,0,0,,rồi sẽ tới ngày...
 Dialogue: 0,0:24:55.21,0:24:56.58,Main,,0,0,0,,anh tìm được con.
@@ -506,8 +506,8 @@ Dialogue: 0,0:26:13.85,0:26:15.17,Main,,0,0,0,,Không liên quan gì đến hắ
 Dialogue: 0,0:26:16.79,0:26:19.78,Main,,0,0,0,,Có khi nào là tâm thần phân liệt \Nhoặc đa nhân cách không?
 Dialogue: 0,0:26:19.91,0:26:21.81,Main,,0,0,0,,Nhầm mình là một người khác, \Ncoi đó là bạn.
 Dialogue: 0,0:26:23.82,0:26:25.22,Main,,0,0,0,,Không thể nào.
-Dialogue: 0,0:26:25.22,0:26:28.36,Main,,0,0,0,,Bác sĩ đã đưa ra khám là\N tình trạng thần kinh của hắn bình thường.
-Dialogue: 0,0:26:30.83,0:26:32.17,Main,,0,0,0,,Nói đến bác sĩ...
+Dialogue: 0,0:26:25.22,0:26:28.36,Main,,0,0,0,,Bác sĩ đã kết luận\N tình trạng thần kinh của hắn bình thường.
+Dialogue: 0,0:26:30.83,0:26:32.17,Main,,0,0,0,,Nói đến bác sĩ kết luận...
 Dialogue: 0,0:26:32.17,0:26:33.91,Main,,0,0,0,,không phải hắn bị tàn phế sao?
 Dialogue: 0,0:26:34.63,0:26:35.38,Main,,0,0,0,,Vậy thì...
 Dialogue: 0,0:26:35.67,0:26:37.61,Main,,0,0,0,,hắn chạy đến studio bằng cách nào?

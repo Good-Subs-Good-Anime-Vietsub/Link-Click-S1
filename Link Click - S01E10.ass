@@ -14,10 +14,10 @@ Last Style Storage: Default
 Audio File: raws/Link Click - S01E10 - (BD 1080p HEVC FLAC AAC) [09E795DC].mkv
 Video File: raws/Link Click - S01E10 - (BD 1080p HEVC FLAC AAC) [09E795DC].mkv
 Video AR Value: 2.400000
-Video Zoom Percent: 0.375000
-Scroll Position: 373
-Active Line: 379
-Video Position: 30452
+Video Zoom Percent: 0.625000
+Scroll Position: 107
+Active Line: 110
+Video Position: 9399
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,8 +146,8 @@ Dialogue: 12,0:04:52.74,0:04:53.52,Main,,0,0,0,,Nhanh xem xem.
 Dialogue: 12,0:04:53.52,0:04:54.98,Main,,0,0,0,,Có khi nào tìm được tung tích San San.
 Dialogue: 12,0:06:27.54,0:06:28.32,Main,,0,0,0,,Thế nào rồi?
 Dialogue: 12,0:06:28.32,0:06:29.20,Main,,0,0,0,,Có manh mối gì à?
-Dialogue: 12,0:06:29.37,0:06:30.89,Main,,0,0,0,,Vào khoảng 1 rưỡi sáng hôm qua,
-Dialogue: 12,0:06:31.98,0:06:34.47,Main,,0,0,0,,Có một người đeo mặt nạ\Nxông vào nhà Từ San San.
+Dialogue: 12,0:06:29.37,0:06:30.89,Main,,0,0,0,,Vào khoảng 1 rưỡi sáng,
+Dialogue: 12,0:06:31.98,0:06:34.47,Main,,0,0,0,,có một người đeo mặt nạ\Nxông vào nhà Từ San San.
 Dialogue: 12,0:06:34.47,0:06:35.33,Main,,0,0,0,,Tấn công cô ấy.
 Dialogue: 12,0:06:37.32,0:06:38.54,Main,,0,0,0,,Nhanh nhập vào ảnh đi.
 Dialogue: 12,0:06:38.54,0:06:39.46,Main,,0,0,0,,Tôi muốn xem xem...

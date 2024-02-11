@@ -11,13 +11,13 @@ PlayResY: 800
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Link Click - S01E01 - (BD 1080p HEVC FLAC AAC) [3AF1A8B5].mkv
-Video File: Link Click - S01E01 - (BD 1080p HEVC FLAC AAC) [3AF1A8B5].mkv
+Audio File: raws/Link Click - S01E01 - (BD 1080p HEVC FLAC AAC) [3AF1A8B5].mkv
+Video File: raws/Link Click - S01E01 - (BD 1080p HEVC FLAC AAC) [3AF1A8B5].mkv
 Video AR Value: 2.400000
-Video Zoom Percent: 1.000000
-Scroll Position: 395
-Active Line: 417
-Video Position: 30610
+Video Zoom Percent: 1.250000
+Scroll Position: 387
+Active Line: 406
+Video Position: 30174
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -440,8 +440,8 @@ Dialogue: 12,0:20:40.52,0:20:41.53,Main,,0,0,0,,Không sao cả.
 Dialogue: 12,0:20:41.53,0:20:43.77,Main,,0,0,0,,Vừa nghe cô nói, vội đi ra bến tàu hỏa.
 Dialogue: 12,0:20:44.30,0:20:45.79,Main,,0,0,0,,Tôi lái xe, tiện đưa cô đi cùng nha.
 Dialogue: 12,0:20:48.94,0:20:50.00,Main,,0,0,0,,Tôi nói rồi.
-Dialogue: 12,0:20:50.78,0:20:52.01,Main,,0,0,0,,Không mò quá khứ.
-Dialogue: 12,0:20:54.10,0:20:55.26,Main,,0,0,0,,Không mò, không mò.
+Dialogue: 12,0:20:50.78,0:20:52.01,Main,,0,0,0,,Không hỏi tương lai.
+Dialogue: 12,0:20:54.10,0:20:55.26,Main,,0,0,0,,Không hỏi, không hỏi.
 Dialogue: 12,0:20:55.26,0:20:56.54,Main,,0,0,0,,Đùa chút thôi mà.
 Dialogue: 12,0:20:57.54,0:20:59.38,Main,,0,0,0,,Cần gì phải nghiêm túc thế chứ.
 Dialogue: 12,0:21:00.54,0:21:01.70,Main,,0,0,0,,Ra ngoài tiếp khách đi.
